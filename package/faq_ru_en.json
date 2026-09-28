@@ -1,0 +1,2847 @@
+[
+  {
+    "id": "FAQ-001",
+    "category": "general",
+    "question": {
+      "ru": "Чем вы занимаетесь?",
+      "en": "What do you do?"
+    },
+    "answer": {
+      "ru": "Команда Арслана-Али помогает с выходом на восточные рынки: бизнес-миссиями, поиском партнёров, экспортом, импортом и сопровождением сделок. Какая задача у вас сейчас?",
+      "en": "Arslan-Ali’s team helps businesses enter Eastern markets through business missions, partner sourcing, export, import and transaction support. What would you like to achieve?"
+    },
+    "source_refs": [
+      "owner_faq"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-002",
+    "category": "general",
+    "question": {
+      "ru": "С какими странами работаете?",
+      "en": "Which countries do you cover?"
+    },
+    "answer": {
+      "ru": "Среди названных направлений — Афганистан, Пакистан, Иран, Ирак, ОАЭ, Саудовская Аравия, Катар, Узбекистан, Казахстан, Таджикистан, Кыргызстан и Туркменистан. Какое направление вас интересует?",
+      "en": "The listed destinations include Afghanistan, Pakistan, Iran, Iraq, the UAE, Saudi Arabia, Qatar, Uzbekistan, Kazakhstan, Tajikistan, Kyrgyzstan and Turkmenistan. Which market are you interested in?"
+    },
+    "source_refs": [
+      "owner_faq"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-003",
+    "category": "general",
+    "question": {
+      "ru": "А другие страны?",
+      "en": "What about other countries?"
+    },
+    "answer": {
+      "ru": "Арслан-Али указал 19 направлений, но полный список пока не внесён. Назовите страну — доступность помощи по ней нужно уточнить у команды.",
+      "en": "Arslan-Ali has stated that the team covers 19 destinations, but the full list has not been added yet. Which country do you have in mind? The team will need to confirm availability."
+    },
+    "source_refs": [
+      "owner_faq"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-004",
+    "category": "general",
+    "question": {
+      "ru": "Работаете с малым бизнесом?",
+      "en": "Do you work with small businesses?"
+    },
+    "answer": {
+      "ru": "Да, по информации Арслана-Али, команда работает и с небольшими компаниями. Какой у вас продукт или задача?",
+      "en": "Yes. According to Arslan-Ali, the team also works with small businesses. What product or business need do you have?"
+    },
+    "source_refs": [
+      "owner_faq"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-005",
+    "category": "general",
+    "question": {
+      "ru": "У меня нет опыта экспорта.",
+      "en": "I have never exported before."
+    },
+    "answer": {
+      "ru": "По словам Арслана-Али, среди клиентов были компании с первой экспортной сделкой. Начнём с вашего продукта: что вы производите или продаёте?",
+      "en": "Arslan-Ali has worked with businesses preparing their first export transaction. Let’s start with your product: what do you make or sell?"
+    },
+    "source_refs": [
+      "owner_faq"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-006",
+    "category": "general",
+    "question": {
+      "ru": "Можно без компании, пока только идея?",
+      "en": "Can I enquire if I only have an idea?"
+    },
+    "answer": {
+      "ru": "Можно описать идею и цель. Подходящий формат работы нужно согласовать с командой; возможность сделки без компании я не подтверждаю. Что вы хотите реализовать?",
+      "en": "You can describe your idea and goal. The team will need to confirm a suitable service; I cannot confirm whether a transaction can proceed without a registered business. What are you planning?"
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-007",
+    "category": "general",
+    "question": {
+      "ru": "Вы Арслан-Али или бот?",
+      "en": "Are you Arslan-Ali or a bot?"
+    },
+    "answer": {
+      "ru": "Я ИИ-помощник Арслана-Али. Отвечаю по согласованной информации и помогаю подготовить обращение к команде.",
+      "en": "I’m Arslan-Ali’s AI assistant. I answer using approved information and help prepare enquiries for the team."
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-008",
+    "category": "general",
+    "question": {
+      "ru": "Можно на английском?",
+      "en": "Can we speak English?"
+    },
+    "answer": {
+      "ru": "Конечно. Можем продолжить на русском или английском. Выберите English, Русский или Auto — смена языка сохранит вашу заявку.",
+      "en": "Of course. We can continue in English or Russian. Choose English, Русский or Auto; switching languages will keep your enquiry intact."
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-009",
+    "category": "consultation",
+    "question": {
+      "ru": "Сколько стоят услуги?",
+      "en": "How much do your services cost?"
+    },
+    "answer": {
+      "ru": "Консультация стоит 10 000 ₽ за час. Поиск партнёра, миссии и сопровождение рассчитываются по задаче. Какая услуга вас интересует?",
+      "en": "A consultation costs RUB 10,000 per hour. Partner sourcing, business missions and transaction support are priced according to the scope. Which service are you interested in?"
+    },
+    "source_refs": [
+      "owner_faq"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-010",
+    "category": "consultation",
+    "question": {
+      "ru": "Как записаться на консультацию?",
+      "en": "How do I request a consultation?"
+    },
+    "answer": {
+      "ru": "Стоимость — 10 000 ₽ за час. Помогу подготовить запрос; время будет подтверждено отдельно. Какую тему вы хотите обсудить?",
+      "en": "The fee is RUB 10,000 per hour. I can help prepare a booking request; the time will be confirmed separately. What would you like to discuss?"
+    },
+    "source_refs": [
+      "owner_faq"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-011",
+    "category": "consultation",
+    "question": {
+      "ru": "Есть бесплатная консультация?",
+      "en": "Is there a free consultation?"
+    },
+    "answer": {
+      "ru": "Можно начать с описания задачи без оплаты. Арслан-Али упоминал первичную оценку, но её объём нужно уточнить. Часовая консультация стоит 10 000 ₽. Какая у вас задача?",
+      "en": "You can start by describing your needs at no charge. Arslan-Ali has mentioned an initial assessment, but its scope needs confirmation. A one-hour consultation costs RUB 10,000. What would you like help with?"
+    },
+    "source_refs": [
+      "owner_faq"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-012",
+    "category": "consultation",
+    "question": {
+      "ru": "Что подготовить к консультации?",
+      "en": "What should I prepare for the consultation?"
+    },
+    "answer": {
+      "ru": "Предлагаю подготовить описание продукта, интересующую страну, предполагаемый объём, сроки и основные вопросы. Неизвестные параметры можно оставить открытыми.",
+      "en": "I suggest preparing a product description, the target country, expected volume, timing and your main questions. You can leave any unknown details open."
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-013",
+    "category": "consultation",
+    "question": {
+      "ru": "Сколько будет в долларах?",
+      "en": "What is the price in US dollars?"
+    },
+    "answer": {
+      "ru": "Подтверждённая цена — 10 000 RUB за час. Стоимость и возможность оплаты в другой валюте не согласованы; ориентировочный пересчёт не будет счётом на оплату.",
+      "en": "The confirmed fee is RUB 10,000 per hour. Pricing and payment in another currency have not been confirmed; any indicative conversion would not be a payment quote."
+    },
+    "source_refs": [
+      "owner_faq"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-014",
+    "category": "consultation",
+    "question": {
+      "ru": "Как оплатить?",
+      "en": "How can I pay?"
+    },
+    "answer": {
+      "ru": "Способ оплаты и реквизиты должны быть подтверждены командой. Я не буду предлагать неподтверждённый счёт. Оплатить хотите консультацию или другую услугу?",
+      "en": "The payment method and details must be confirmed by the team. I will not provide unverified payment instructions. Is this for a consultation or another service?"
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-015",
+    "category": "consultation",
+    "question": {
+      "ru": "Нужна предоплата?",
+      "en": "Is a deposit required?"
+    },
+    "answer": {
+      "ru": "Условия предоплаты пока не указаны в согласованной информации. Их нужно уточнить для выбранной услуги до оплаты.",
+      "en": "Deposit requirements are not specified in the approved information yet. They need to be confirmed for your chosen service before payment."
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-016",
+    "category": "consultation",
+    "question": {
+      "ru": "Можно перенести или вернуть оплату?",
+      "en": "Can I reschedule or get a refund?"
+    },
+    "answer": {
+      "ru": "Условия переноса и возврата нужно проверить по вашему заказу. Какая услуга и дата обращения? Не отправляйте банковские реквизиты в этом сообщении.",
+      "en": "Rescheduling and refund terms need to be checked for your booking. Which service and booking date does this concern? Please do not include bank details in this message."
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-017",
+    "category": "consultation",
+    "question": {
+      "ru": "Консультация будет на английском?",
+      "en": "Will the consultation be in English?"
+    },
+    "answer": {
+      "ru": "Со мной можно общаться на английском. Язык личной консультации с Арсланом-Али или специалистом нужно подтвердить отдельно. Отмечу английский как ваше пожелание после сохранения запроса.",
+      "en": "You can chat with me in English. The language of a live consultation with Arslan-Ali or a specialist needs separate confirmation. I can record English as your preference in the request."
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-018",
+    "category": "consultation",
+    "question": {
+      "ru": "Мне нужно срочно сегодня.",
+      "en": "I need help urgently today."
+    },
+    "answer": {
+      "ru": "Уточню срочность в заявке, но свободное время сегодня не могу обещать без подтверждения. До какого времени нужен ответ и какой у вас часовой пояс?",
+      "en": "I can mark the request as urgent, but I cannot promise availability today without confirmation. By what time do you need a response, and what is your time zone?"
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-019",
+    "category": "missions",
+    "question": {
+      "ru": "Когда ближайшая миссия?",
+      "en": "When is the next business mission?"
+    },
+    "answer": {
+      "ru": "В доступной мне согласованной информации пока нет актуального расписания. Какую страну рассматриваете? Могу подготовить запрос на программу.",
+      "en": "I do not yet have an up-to-date approved schedule. Which country are you considering? I can prepare a request for the programme."
+    },
+    "source_refs": [
+      "owner_faq"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-020",
+    "category": "missions",
+    "question": {
+      "ru": "Сколько стоит участие?",
+      "en": "How much does participation cost?"
+    },
+    "answer": {
+      "ru": "Нужна стоимость конкретной миссии и пакета. Какое направление или анонс вы имеете в виду?",
+      "en": "The price depends on the specific mission and package. Which destination or announcement are you referring to?"
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-021",
+    "category": "missions",
+    "question": {
+      "ru": "Перелёт и отель включены?",
+      "en": "Are flights and accommodation included?"
+    },
+    "answer": {
+      "ru": "Состав пакета нужно проверить по программе выбранной миссии. До этого не могу подтвердить включение перелёта, отеля, питания или трансфера.",
+      "en": "We need to check the package for the selected mission. Until then, I cannot confirm whether flights, accommodation, meals or transfers are included."
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-022",
+    "category": "missions",
+    "question": {
+      "ru": "С кем будут встречи?",
+      "en": "Who will we meet?"
+    },
+    "answer": {
+      "ru": "Список встреч должен быть указан в согласованной программе. Каких партнёров вы ищете: покупателей, производителей или дистрибьюторов?",
+      "en": "Meetings should be listed in the approved programme. What kind of partners are you looking for: buyers, manufacturers or distributors?"
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-023",
+    "category": "missions",
+    "question": {
+      "ru": "Подберёте встречи под мой бизнес?",
+      "en": "Can meetings be tailored to my business?"
+    },
+    "answer": {
+      "ru": "Зафиксируем вашу задачу для команды; возможность индивидуального подбора зависит от формата миссии. Какой у вас продукт?",
+      "en": "We can include your needs in the request; tailored meetings depend on the mission format. What is your product?"
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-024",
+    "category": "missions",
+    "question": {
+      "ru": "Нужен иностранный язык?",
+      "en": "Do I need to speak a foreign language?"
+    },
+    "answer": {
+      "ru": "Наличие переводчика и языки сопровождения нужно уточнить для конкретной программы. На каком языке вам удобно вести переговоры?",
+      "en": "Interpreter availability and supported languages need to be confirmed for the programme. Which language would you prefer for negotiations?"
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-025",
+    "category": "missions",
+    "question": {
+      "ru": "Поможете с визой?",
+      "en": "Can you help with a visa?"
+    },
+    "answer": {
+      "ru": "Наличие визовой поддержки нужно согласовать для страны и поездки. Паспортные данные сейчас не нужны. Куда вы планируете ехать?",
+      "en": "Visa support needs to be confirmed for the destination and trip. No passport details are needed at this stage. Where are you planning to travel?"
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-026",
+    "category": "missions",
+    "question": {
+      "ru": "Безопасно ли ехать?",
+      "en": "Is it safe to travel?"
+    },
+    "answer": {
+      "ru": "Я не могу гарантировать безопасность поездки. Перед решением нужны актуальные официальные рекомендации и подтверждённый план организатора для конкретных дат и маршрута. Какую поездку вы рассматриваете?",
+      "en": "I cannot guarantee travel safety. A decision requires current official travel advice and the organiser’s confirmed plan for the dates and route. Which trip are you considering?"
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-027",
+    "category": "missions",
+    "question": {
+      "ru": "Что если поездку отменят?",
+      "en": "What happens if the trip is cancelled?"
+    },
+    "answer": {
+      "ru": "Порядок отмены, переноса и возврата должен быть указан в условиях конкретной миссии. Эти условия нужно получить до оплаты.",
+      "en": "Cancellation, rescheduling and refund rules should be stated in the terms for the specific mission. These need to be provided before payment."
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-028",
+    "category": "missions",
+    "question": {
+      "ru": "Можно поехать своей делегацией?",
+      "en": "Can we join as a delegation?"
+    },
+    "answer": {
+      "ru": "Арслан-Али сообщил об опыте работы с делегациями. Возможность отдельной программы нужно согласовать. Сколько участников и какое направление вы рассматриваете?",
+      "en": "Arslan-Ali has reported experience working with delegations. A dedicated programme needs confirmation. How many participants and which destination do you have in mind?"
+    },
+    "source_refs": [
+      "owner_faq"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-029",
+    "category": "export",
+    "question": {
+      "ru": "Можете продать мой товар за рубеж?",
+      "en": "Can you help sell my product abroad?"
+    },
+    "answer": {
+      "ru": "Помощь с экспортом и поиском партнёров входит в заявленные направления работы. Возможность проекта оценивается по товару и рынку; продажу заранее не гарантирую. Что вы предлагаете?",
+      "en": "Export support and partner sourcing are among the stated services. Project suitability depends on the product and market; a sale cannot be guaranteed in advance. What do you offer?"
+    },
+    "source_refs": [
+      "owner_faq"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-030",
+    "category": "export",
+    "question": {
+      "ru": "В какую страну лучше выходить?",
+      "en": "Which market should I enter?"
+    },
+    "answer": {
+      "ru": "В публикации от 27 июля 2026 года команда предлагает анализ рынка Ирана. Подбор рынка для вашего продукта требует данных и отдельной оценки. Что вы производите?",
+      "en": "The 27 July 2026 post offers Iranian market research. Choosing a market for your product requires data and a separate assessment. What do you manufacture?"
+    },
+    "source_refs": [
+      "message352"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-031",
+    "category": "export",
+    "question": {
+      "ru": "Есть спрос на мой товар?",
+      "en": "Is there demand for my product?"
+    },
+    "answer": {
+      "ru": "Для ответа нужны данные по конкретному товару и стране. Я не буду придумывать спрос или покупателей. Какой товар и рынок вас интересуют?",
+      "en": "That requires evidence for the specific product and country. I will not invent demand or potential buyers. Which product and market are you considering?"
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-032",
+    "category": "export",
+    "question": {
+      "ru": "Найдёте дистрибьютора?",
+      "en": "Can you find a distributor?"
+    },
+    "answer": {
+      "ru": "Поиск партнёров и покупателей прямо указан в публикации о команде в Иране. Подготовим запрос на дистрибьютора; условия и результат поиска нужно согласовать. В какой стране он нужен?",
+      "en": "Partner and buyer sourcing is explicitly listed in the post about the Iran team. We can prepare a distributor enquiry; search terms and deliverables need agreement. Which country do you need?"
+    },
+    "source_refs": [
+      "message352"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-033",
+    "category": "export",
+    "question": {
+      "ru": "Есть гарантия контракта?",
+      "en": "Do you guarantee a contract?"
+    },
+    "answer": {
+      "ru": "В предоставленной информации гарантии заключения контракта нет. Результат и обязательства по услуге нужно закрепить в предложении и договоре.",
+      "en": "No guarantee of a signed contract has been provided. The service deliverables and obligations need to be specified in the proposal and agreement."
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-034",
+    "category": "export",
+    "question": {
+      "ru": "С какой партии можно начать?",
+      "en": "What is the minimum volume?"
+    },
+    "answer": {
+      "ru": "Единого минимального объёма в базе нет. Он зависит от товара, партнёра и условий проекта. Какой объём вы готовы предложить?",
+      "en": "No universal minimum volume is listed. It depends on the product, partner and project terms. What volume can you offer?"
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-035",
+    "category": "export",
+    "question": {
+      "ru": "Работаете с моей отраслью?",
+      "en": "Do you work with my industry?"
+    },
+    "answer": {
+      "ru": "Полный перечень отраслей пока не утверждён. Опишите продукт — команда сможет подтвердить, подходит ли задача.",
+      "en": "A complete list of supported industries has not been approved yet. Please describe the product so the team can confirm whether the project is suitable."
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-036",
+    "category": "export",
+    "question": {
+      "ru": "Можно экспортировать услуги?",
+      "en": "Can you help export services?"
+    },
+    "answer": {
+      "ru": "В архиве есть IT-кейс «Антиплагиата»: публикация и благодарственное письмо сообщают о контракте в Иране. Это не означает, что команда берётся за любые услуги. Что вы предлагаете и для какого рынка?",
+      "en": "The archive includes an Antiplagiat IT case: a post and thank-you letter report a contract in Iran. This does not mean every service-export project is supported. What do you offer, and for which market?"
+    },
+    "source_refs": [
+      "message199",
+      "message203"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-037",
+    "category": "export",
+    "question": {
+      "ru": "Можно без поездки?",
+      "en": "Can this be done without travelling?"
+    },
+    "answer": {
+      "ru": "Возможность дистанционного поиска и переговоров нужно подтвердить для вашей задачи. Что вам нужно: найти покупателя, поставщика или сопровождать уже начатые переговоры?",
+      "en": "Remote sourcing and negotiations need to be confirmed for your project. Do you need a buyer, a supplier or support with existing negotiations?"
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-038",
+    "category": "export",
+    "question": {
+      "ru": "Сколько времени занимает поиск?",
+      "en": "How long does partner sourcing take?"
+    },
+    "answer": {
+      "ru": "Согласованного универсального срока нет. Срок можно определить после уточнения задачи и критериев партнёра. Есть ли у вас крайняя дата?",
+      "en": "No universal lead time has been approved. A timeline can be established after the scope and partner criteria are clarified. Do you have a deadline?"
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-039",
+    "category": "sourcing",
+    "question": {
+      "ru": "Найдёте производителя?",
+      "en": "Can you source a manufacturer?"
+    },
+    "answer": {
+      "ru": "Поиск партнёров и помощь с импортом входят в заявленные услуги. Какой товар и характеристики вам нужны?",
+      "en": "Partner sourcing and import support are among the stated services. What product and specifications do you need?"
+    },
+    "source_refs": [
+      "owner_faq"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-040",
+    "category": "sourcing",
+    "question": {
+      "ru": "Проверите моего поставщика?",
+      "en": "Can you verify my supplier?"
+    },
+    "answer": {
+      "ru": "Отдельный формат проверки и её объём нужно согласовать. Какую компанию и какую часть сделки вы хотите проверить? Не присылайте конфиденциальные документы до согласования.",
+      "en": "A standalone verification service and its scope need confirmation. Which company and aspect of the transaction would you like checked? Please wait before sending confidential documents."
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-041",
+    "category": "sourcing",
+    "question": {
+      "ru": "Как проверяете надёжность?",
+      "en": "How do you assess reliability?"
+    },
+    "answer": {
+      "ru": "Арслан-Али описывает поиск через деловые связи, торговые палаты и контакты. Это само по себе не гарантия надёжности. Конкретные проверки и документы следует согласовать по проекту.",
+      "en": "Arslan-Ali describes sourcing through business relationships, chambers of commerce and contacts. That alone is not a guarantee of reliability. Specific checks and evidence should be agreed for the project."
+    },
+    "source_refs": [
+      "owner_faq"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-042",
+    "category": "sourcing",
+    "question": {
+      "ru": "Можно получить образцы?",
+      "en": "Can I get samples?"
+    },
+    "answer": {
+      "ru": "Образцы, их стоимость и доставка согласуются с конкретным поставщиком. Какой товар вы хотите протестировать?",
+      "en": "Samples, their cost and delivery need to be agreed with the specific supplier. Which product would you like to test?"
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-043",
+    "category": "sourcing",
+    "question": {
+      "ru": "Есть контроль качества?",
+      "en": "Do you offer quality inspection?"
+    },
+    "answer": {
+      "ru": "Доступность инспекции и её формат нужно подтвердить отдельно. Какой товар, где производство и что требуется проверить?",
+      "en": "Inspection availability and scope need separate confirmation. What is the product, where is it manufactured and what needs checking?"
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-044",
+    "category": "sourcing",
+    "question": {
+      "ru": "Сколько получится с доставкой?",
+      "en": "What is the total landed cost?"
+    },
+    "answer": {
+      "ru": "Для расчёта нужны данные о товаре, объёме, местах отправления и назначения и условиях поставки. Начнём с товара и количества. Без расчёта не буду называть итоговую цену.",
+      "en": "A calculation requires product details, quantity, origin, destination and delivery terms. Let’s start with the product and quantity. I will not quote a total without a calculation."
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-045",
+    "category": "sourcing",
+    "question": {
+      "ru": "Я иностранный поставщик, ищу покупателей в России.",
+      "en": "I’m an overseas supplier looking for buyers in Russia."
+    },
+    "answer": {
+      "ru": "Могу подготовить обращение команде; возможность работы нужно подтвердить. Что вы поставляете и из какой страны?",
+      "en": "I can prepare an enquiry for the team; service availability needs confirmation. What do you supply, and from which country?"
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-046",
+    "category": "sourcing",
+    "question": {
+      "ru": "Работаем только за процент от сделки?",
+      "en": "Can you work on commission only?"
+    },
+    "answer": {
+      "ru": "Такая модель оплаты пока не подтверждена. Укажите задачу — команда сможет обсудить возможные условия, но заранее обещать оплату только за результат я не могу.",
+      "en": "That payment model has not been confirmed. Please describe the project so the team can discuss possible terms; I cannot promise a success-fee-only arrangement."
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-047",
+    "category": "regulated",
+    "question": {
+      "ru": "Какие документы нужны?",
+      "en": "What documents are required?"
+    },
+    "answer": {
+      "ru": "Точный комплект зависит от товара, стран и сделки. Чтобы передать вопрос специалисту, уточните, что и откуда вы планируете поставлять.",
+      "en": "The exact documents depend on the product, countries and transaction. To prepare the question for a specialist, what are you shipping and from where?"
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-048",
+    "category": "regulated",
+    "question": {
+      "ru": "Нужны сертификаты или halal?",
+      "en": "Do I need certification or halal certification?"
+    },
+    "answer": {
+      "ru": "Не могу подтвердить требования без конкретного товара и рынка. Какой продукт и страна назначения? Ответ нужно проверить по актуальным требованиям.",
+      "en": "I cannot confirm the requirements without the specific product and market. What is the product and destination country? The answer needs to be checked against current requirements."
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-049",
+    "category": "regulated",
+    "question": {
+      "ru": "Определите код ТН ВЭД?",
+      "en": "Can you determine the HS code?"
+    },
+    "answer": {
+      "ru": "Для классификации нужны характеристики товара и проверка специалиста. Готовый код без описания подтверждать нельзя. Есть ли у вас техническое описание или уже предложенный код?",
+      "en": "Classification requires product specifications and specialist review. A code cannot be confirmed without a description. Do you have technical details or a proposed code?"
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-050",
+    "category": "regulated",
+    "question": {
+      "ru": "Какие пошлины и налоги?",
+      "en": "What duties and taxes apply?"
+    },
+    "answer": {
+      "ru": "Ставки и расчёт нужно проверять для конкретного товара, маршрута и сделки. Укажите товар и страны отправления и назначения — подготовим вопрос для специалиста.",
+      "en": "Rates and calculations need to be checked for the product, route and transaction. Please specify the product and the origin and destination countries so we can prepare the question for a specialist."
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-051",
+    "category": "regulated",
+    "question": {
+      "ru": "Как вернуть экспортный НДС?",
+      "en": "How can I recover export VAT?"
+    },
+    "answer": {
+      "ru": "Это вопрос для специалиста с учётом вашей ситуации и актуальных правил. Могу зафиксировать его для консультации; налоговое заключение по общей переписке не подтверждаю.",
+      "en": "This requires specialist advice based on your circumstances and current rules. I can include it in a consultation request; I cannot confirm a tax conclusion from a general chat."
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-052",
+    "category": "regulated",
+    "question": {
+      "ru": "Можно торговать с Ираном или Афганистаном при санкциях?",
+      "en": "Can I trade with Iran or Afghanistan under sanctions?"
+    },
+    "answer": {
+      "ru": "Допустимость конкретной сделки нельзя подтвердить только по названию страны. Нужна проверка товара, участников, маршрута и расчётов. Какой товар и между какими странами планируется поставка?",
+      "en": "A specific transaction cannot be cleared based on the country name alone. The product, parties, route and payment arrangements need review. What product and countries are involved?"
+    },
+    "source_refs": [
+      "owner_faq"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-053",
+    "category": "regulated",
+    "question": {
+      "ru": "Через какой банк платить?",
+      "en": "Which bank should I use?"
+    },
+    "answer": {
+      "ru": "Не буду предлагать банк или способ расчёта без проверки конкретной сделки и доступности платежа. Этот вопрос нужно передать специалисту вместе с описанием сделки.",
+      "en": "I will not recommend a bank or payment method without checking the transaction and payment availability. This should be referred to a specialist with the transaction details."
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-054",
+    "category": "regulated",
+    "question": {
+      "ru": "Сколько идёт груз, есть страховка и отслеживание?",
+      "en": "How long does shipping take, and is insurance or tracking available?"
+    },
+    "answer": {
+      "ru": "Срок, страхование и отслеживание нужно подтвердить по конкретной перевозке. Откуда и куда идёт груз, и что вы отправляете?",
+      "en": "Transit time, insurance and tracking need confirmation for the specific shipment. What are you shipping, and from where to where?"
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-055",
+    "category": "service",
+    "question": {
+      "ru": "Есть кейсы и отзывы?",
+      "en": "Do you have case studies and reviews?"
+    },
+    "answer": {
+      "ru": "В архиве есть кейсы «Антиплагиата», ЭПОТОС и ZETO. Могу подобрать публикацию по вашей отрасли; результаты прошлых проектов не гарантируют результат нового. Какая отрасль вас интересует?",
+      "en": "The archive includes Antiplagiat, EPOTOS and ZETO cases. I can select a relevant post; past outcomes do not guarantee a new project’s result. Which industry interests you?"
+    },
+    "source_refs": [
+      "message199",
+      "message203",
+      "message237",
+      "message224"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-056",
+    "category": "service",
+    "question": {
+      "ru": "Найди пост про Пакистан",
+      "en": "Find the post about Pakistan."
+    },
+    "answer": {
+      "ru": "В архиве есть публикации о пакистанском текстиле от 19 июня 2026 года и анонс экспортной встречи от 28 июля. Вы ищете закупку текстиля или продажу своей продукции в Пакистан?",
+      "en": "The archive has a Pakistani textiles post dated 19 June 2026 and an export-event announcement dated 28 July. Are you looking to source textiles or sell your products in Pakistan?"
+    },
+    "source_refs": [
+      "message345",
+      "message354"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-057",
+    "category": "service",
+    "question": {
+      "ru": "Арслан-Али сам ездит?",
+      "en": "Does Arslan-Ali travel there personally?"
+    },
+    "answer": {
+      "ru": "По его словам, он лично посещает страны и участвует в переговорах. Участие в конкретной миссии нужно проверять по программе; текущее местонахождение у меня не подтверждено.",
+      "en": "According to Arslan-Ali, he visits the countries and takes part in negotiations personally. His participation in a particular mission should be checked against its programme; I do not have a confirmed current location."
+    },
+    "source_refs": [
+      "owner_faq"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-058",
+    "category": "service",
+    "question": {
+      "ru": "Соедините с человеком",
+      "en": "Let me speak to a person."
+    },
+    "answer": {
+      "ru": "Понял, вы хотите общаться с человеком. Могу сохранить запрос на передачу вместе с контекстом. Срочная связь и время ответа зависят от доступности команды.",
+      "en": "Understood—you would like to speak to a person. I can save a handover request with the conversation context. Immediate availability and response time depend on the team."
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-059",
+    "category": "service",
+    "question": {
+      "ru": "Что с моей заявкой?",
+      "en": "What is the status of my enquiry?"
+    },
+    "answer": {
+      "ru": "Проверю статус заявки, связанной с вашим аккаунтом. Если вы писали из другого канала, сначала потребуется безопасно подтвердить связь аккаунтов.",
+      "en": "I can check the enquiry linked to your account. If you contacted us through another channel, we will first need to verify that the accounts belong to you."
+    },
+    "source_refs": [
+      "owner_faq"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-060",
+    "category": "service",
+    "question": {
+      "ru": "Исправьте, удалите мои данные или отключите уведомления",
+      "en": "Correct or delete my data, or stop notifications."
+    },
+    "answer": {
+      "ru": "Уточните, пожалуйста: хотите исправить данные, запросить удаление или отключить уведомления? Подтвержу результат после выполнения соответствующего действия; для удаления может понадобиться проверка принадлежности данных.",
+      "en": "Would you like to correct your details, request deletion or stop notifications? I will confirm the result after the relevant action is completed; deletion may require verification that the data belongs to you."
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-061",
+    "category": "iran_team",
+    "question": {
+      "ru": "У вас есть команда в Иране?",
+      "en": "Do you have a team in Iran?"
+    },
+    "answer": {
+      "ru": "В публикации от 27 июля 2026 года Арслан-Али сообщил о команде на месте: поиск фабрик, партнёров и покупателей, анализ рынка, цен и конкурентов. Какая помощь вам нужна?",
+      "en": "In a post dated 27 July 2026, Arslan-Ali described a local team handling factory, partner and buyer sourcing, market research, prices and competitors. What support do you need?"
+    },
+    "source_refs": [
+      "message352"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-062",
+    "category": "iran_team",
+    "question": {
+      "ru": "Проверите реальные цены на мой товар в Иране?",
+      "en": "Can you research actual market prices in Iran?"
+    },
+    "answer": {
+      "ru": "Проверка реальных цен указана среди направлений работы местной команды. Нужны товар, характеристики и рынок сравнения; стоимость и срок исследования согласуются отдельно.",
+      "en": "Researching actual prices is among the local team's stated services. We need the product, specifications and comparison market; research fees and timing require a separate agreement."
+    },
+    "source_refs": [
+      "message352"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-063",
+    "category": "iran_team",
+    "question": {
+      "ru": "Можно изучить конкурентов до поездки?",
+      "en": "Can you research competitors before I travel?"
+    },
+    "answer": {
+      "ru": "Изучение конкурентов и возможностей выхода заявлено в канале. Подготовим запрос на исследование; какие товары или решения вы предлагаете?",
+      "en": "Competitor research and market-entry opportunities are described in the channel. We can prepare a research enquiry. What products or solutions do you offer?"
+    },
+    "source_refs": [
+      "message352"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-064",
+    "category": "iran_team",
+    "question": {
+      "ru": "Помогаете работать с пакистанским текстилем?",
+      "en": "Can you help with Pakistani textiles?"
+    },
+    "answer": {
+      "ru": "В публикации от 19 июня 2026 года Арслан-Али упоминает практический опыт с пакистанским текстилем. Уточним доступность помощи по вашей категории. Какой текстиль и объём нужны?",
+      "en": "In a post dated 19 June 2026, Arslan-Ali mentions practical experience with Pakistani textiles. The team needs to confirm support for your category. What textile products and quantity do you need?"
+    },
+    "source_refs": [
+      "message345"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-065",
+    "category": "iran_team",
+    "question": {
+      "ru": "Организуете приезд иностранных покупателей в Россию?",
+      "en": "Do you organise inbound buyer delegations to Russia?"
+    },
+    "answer": {
+      "ru": "В канале есть отчёт о реверсной миссии турецких предпринимателей в Дагестан в сентябре 2024 года. Новую программу нужно согласовать. Каких покупателей вы хотите пригласить?",
+      "en": "The channel reports an inbound Turkish business delegation to Dagestan in September 2024. A new programme needs to be agreed. What buyers would you like to invite?"
+    },
+    "source_refs": [
+      "message106"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-066",
+    "category": "iran_team",
+    "question": {
+      "ru": "Были встречи с закупщиками торговых сетей?",
+      "en": "Have you organised meetings with retail-chain buyers?"
+    },
+    "answer": {
+      "ru": "В архиве есть анонс B2B-сессии с сетями Узбекистана и Кыргызстана на 6–7 мая 2026 года. Эти даты прошли; наличие следующей сессии нужно уточнить.",
+      "en": "The archive contains an announcement for a B2B session with Uzbek and Kyrgyz retail chains on 6–7 May 2026. Those dates have passed; the next session needs confirmation."
+    },
+    "source_refs": [
+      "message336"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-067",
+    "category": "iran_team",
+    "question": {
+      "ru": "Встречи проходят только в офисах?",
+      "en": "Do business missions only include office meetings?"
+    },
+    "answer": {
+      "ru": "В апреле 2026 года Арслан-Али описывал посещение базаров, оптовых складов и переговоры с продавцами как часть миссий. Состав конкретной поездки проверяется по её программе.",
+      "en": "In April 2026, Arslan-Ali described visits to markets and wholesale warehouses and talks with traders as part of missions. The itinerary must be checked for each trip."
+    },
+    "source_refs": [
+      "message332",
+      "message333",
+      "message334"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-068",
+    "category": "iran_team",
+    "question": {
+      "ru": "Можно посетить фабрику индивидуально?",
+      "en": "Can you arrange an individual factory visit?"
+    },
+    "answer": {
+      "ru": "В архивных предложениях есть индивидуальные выезды на предприятия и встречи по запросу. Доступность, состав и цена новой программы согласуются отдельно. Какая отрасль вас интересует?",
+      "en": "Archived offers include individual factory visits and meetings on request. Availability, scope and pricing for a new programme need confirmation. Which industry interests you?"
+    },
+    "source_refs": [
+      "message174",
+      "message226"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-069",
+    "category": "iran_team",
+    "question": {
+      "ru": "Можно пригласить Арслана-Али выступить?",
+      "en": "Can we invite Arslan-Ali as a speaker?"
+    },
+    "answer": {
+      "ru": "В канале есть сообщения о его выступлениях на деловых мероприятиях. Могу подготовить запрос с темой, датой и форматом; участие и гонорар пока не подтверждены.",
+      "en": "The channel includes reports of his business-event speaking engagements. I can prepare an enquiry with the topic, date and format; availability and fees are not yet confirmed."
+    },
+    "source_refs": [
+      "message204",
+      "message238",
+      "message245",
+      "message351"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-070",
+    "category": "iran_team",
+    "question": {
+      "ru": "Вы ищете логистов Россия — Афганистан?",
+      "en": "Are you looking for Russia–Afghanistan logistics providers?"
+    },
+    "answer": {
+      "ru": "9 сентября 2026 года в канале опубликован запрос к логистам с опытом этого маршрута. Могу подготовить предложение команде: какие перевозки вы выполняете и какой у вас опыт?",
+      "en": "On 9 September 2026, the channel invited logistics providers with experience on this route to get in touch. I can prepare an offer for the team. What transport services and route experience do you have?"
+    },
+    "source_refs": [
+      "message362"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-071",
+    "category": "exhibitions",
+    "question": {
+      "ru": "Участие в иранской выставке действительно бесплатное?",
+      "en": "Is participation in Iranian exhibitions really free?"
+    },
+    "answer": {
+      "ru": "Архивные предложения предусматривали субсидируемый пакет, но регистрационный взнос и отдельные расходы оставались. Это не означает полностью бесплатную поездку. Нужны условия актуального мероприятия.",
+      "en": "Archived offers described a subsidised package, but registration fees and some separate expenses remained. This did not mean an entirely free trip. The current event's terms are needed."
+    },
+    "source_refs": [
+      "message119",
+      "message226",
+      "message244"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-072",
+    "category": "exhibitions",
+    "question": {
+      "ru": "40 тысяч — действующая цена любой выставки?",
+      "en": "Is RUB 40,000 the current price for every exhibition?"
+    },
+    "answer": {
+      "ru": "40 000 ₽ указаны в отдельных анонсах 2025 года, включая мероприятия начала 2026 года. Это исторические условия, а не подтверждённый общий тариф. Какая выставка вам нужна?",
+      "en": "RUB 40,000 appeared in specific 2025 announcements, including events in early 2026. These are historical terms, not a confirmed universal current fee. Which exhibition interests you?"
+    },
+    "source_refs": [
+      "message119",
+      "message188",
+      "message226",
+      "message244"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-073",
+    "category": "exhibitions",
+    "question": {
+      "ru": "Два представителя компании входят в пакет?",
+      "en": "Does the package cover two company representatives?"
+    },
+    "answer": {
+      "ru": "В анонсах WOODEX и AIx на январь 2026 года был указан пакет до двух представителей одной компании с проживанием в одном номере. Для следующей выставки это нужно подтвердить заново.",
+      "en": "The January 2026 WOODEX and AIx offers included up to two representatives of one company sharing a room. This must be reconfirmed for any new exhibition."
+    },
+    "source_refs": [
+      "message226",
+      "message244"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-074",
+    "category": "exhibitions",
+    "question": {
+      "ru": "Что требовали для субсидируемого участия?",
+      "en": "What was required for subsidised participation?"
+    },
+    "answer": {
+      "ru": "В анонсе AIx требовались участие от компании, профильный сайт и презентация, визитки участников и анкета. Это условия того анонса; актуальные критерии программы надо проверить.",
+      "en": "The AIx announcement required company participation, a relevant website and presentation, participants' business cards and an application form. Those were that offer's requirements; current criteria need checking."
+    },
+    "source_refs": [
+      "message244"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-075",
+    "category": "exhibitions",
+    "question": {
+      "ru": "Можно участвовать как физическое лицо?",
+      "en": "Can I join as a private individual?"
+    },
+    "answer": {
+      "ru": "Для субсидируемой программы AIx в архиве прямо требовалось участие от компании. Для других туров, миссий и мероприятий условия могут отличаться. Какой формат вас интересует?",
+      "en": "The archived subsidised AIx programme explicitly required company participation. Other tours, missions and events may have different terms. Which format are you considering?"
+    },
+    "source_refs": [
+      "message244",
+      "message174"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-076",
+    "category": "exhibitions",
+    "question": {
+      "ru": "25 тысяч — цена одной встречи сейчас?",
+      "en": "Is RUB 25,000 the current fee for one meeting?"
+    },
+    "answer": {
+      "ru": "25 000 ₽ за встречу указаны как дополнительная услуга в анонсе WOODEX на январь 2026 года. Текущий тариф и содержание встречи нужно согласовать отдельно.",
+      "en": "RUB 25,000 per meeting was listed as an add-on in the January 2026 WOODEX announcement. The current fee and meeting scope need separate confirmation."
+    },
+    "source_refs": [
+      "message226"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-077",
+    "category": "exhibitions",
+    "question": {
+      "ru": "Можно ещё попасть на ELECOMP 29?",
+      "en": "Can I still join ELECOMP 29?"
+    },
+    "answer": {
+      "ru": "В архивном анонсе указаны 31 августа — 3 сентября 2026 года. Эти даты уже прошли. Следующее мероприятие и наличие мест нужно уточнить у команды.",
+      "en": "The archived announcement lists 31 August–3 September 2026. Those dates have passed. The team needs to confirm the next event and availability."
+    },
+    "source_refs": [
+      "message357"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-078",
+    "category": "exhibitions",
+    "question": {
+      "ru": "В ELECOMP было три дня или четыре ночи?",
+      "en": "Was the ELECOMP stay three days or four nights?"
+    },
+    "answer": {
+      "ru": "В анонсе написано «3 дня / 4 ночи», что требует уточнения. Я не буду самостоятельно исправлять или переносить эту формулировку в новое предложение.",
+      "en": "The announcement says “3 days / 4 nights”, which needs clarification. I will not silently correct it or apply it to a new offer."
+    },
+    "source_refs": [
+      "message357"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-079",
+    "category": "exhibitions",
+    "question": {
+      "ru": "Были выставки для нефтегазовых компаний?",
+      "en": "Were there exhibitions for oil and gas companies?"
+    },
+    "answer": {
+      "ru": "В архиве есть программа «Профессиональный гость» для Iran Oil Show с датами 9–12 мая 2025 года. Это пример прошлого предложения. Для новой поездки уточним профиль и расписание.",
+      "en": "The archive includes a Professional Visitor programme for Iran Oil Show dated 9–12 May 2025. This is an example of a past offer. A new trip requires an updated schedule and your business profile."
+    },
+    "source_refs": [
+      "message119"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-080",
+    "category": "exhibitions",
+    "question": {
+      "ru": "Были программы для деревообработки и мебели?",
+      "en": "Were there programmes for woodworking and furniture businesses?"
+    },
+    "answer": {
+      "ru": "Да, в архиве есть анонс WOODEX на 12–15 января 2026 года. Для следующего участия нужно уточнить даты и условия. Вы производитель, поставщик оборудования или покупатель?",
+      "en": "Yes. The archive includes WOODEX announced for 12–15 January 2026. The next event's dates and terms need confirmation. Are you a manufacturer, equipment supplier or buyer?"
+    },
+    "source_refs": [
+      "message226"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-081",
+    "category": "exhibitions",
+    "question": {
+      "ru": "Есть опыт с IT и искусственным интеллектом?",
+      "en": "Do you have experience with IT and AI businesses?"
+    },
+    "answer": {
+      "ru": "В канале есть кейс «Антиплагиата» и анонсы AIx и ELECOMP. Это основания обсудить вашу задачу, но не гарантия спроса на любое IT-решение. Что вы разрабатываете?",
+      "en": "The channel contains an Antiplagiat case and AIx and ELECOMP announcements. These support discussing your project, but do not guarantee demand for any IT solution. What are you developing?"
+    },
+    "source_refs": [
+      "message199",
+      "message244",
+      "message357"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-082",
+    "category": "exhibitions",
+    "question": {
+      "ru": "Есть выставки для пищевой отрасли?",
+      "en": "Are there exhibitions for food businesses?"
+    },
+    "answer": {
+      "ru": "В архиве упоминается Iran AgroFood 2025 и деловые встречи по пищевой тематике. Актуальную программу нужно запросить отдельно. Какая продукция у вас?",
+      "en": "The archive mentions Iran AgroFood 2025 and food-industry business meetings. A current programme needs a separate enquiry. What products do you offer?"
+    },
+    "source_refs": [
+      "message121",
+      "message162"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-083",
+    "category": "exhibitions",
+    "question": {
+      "ru": "Можно совместить бизнес и культурную поездку?",
+      "en": "Can I combine business and cultural travel?"
+    },
+    "answer": {
+      "ru": "В предложении по Афганистану от июля 2025 года были туристический, деловой и комбинированный форматы. Возможность и программу новой поездки нужно согласовать.",
+      "en": "The Afghanistan offer from July 2025 described cultural, business and combined formats. Availability and the itinerary for a new trip need agreement."
+    },
+    "source_refs": [
+      "message164",
+      "message174"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-084",
+    "category": "exhibitions",
+    "question": {
+      "ru": "Можно выбрать тур на 3, 5 или 7 дней?",
+      "en": "Can I choose a 3-, 5- or 7-day tour?"
+    },
+    "answer": {
+      "ru": "Такие варианты перечислены в предложении от 20 июля 2025 года. Это исторический формат; подтвердим доступную продолжительность для ваших дат.",
+      "en": "Those options were listed in the 20 July 2025 offer. This is a historical format; available durations must be confirmed for your dates."
+    },
+    "source_refs": [
+      "message174"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-085",
+    "category": "exhibitions",
+    "question": {
+      "ru": "Действует поездка за 299 тысяч?",
+      "en": "Is the RUB 299,000 trip still available?"
+    },
+    "answer": {
+      "ru": "299 000 ₽ были специальной ценой для первых трёх заявок в публикации от 6 августа 2025 года. Актуальность этой акции не подтверждена, поэтому бронирование по ней обещать нельзя.",
+      "en": "RUB 299,000 was an early offer for the first three applications in a post dated 6 August 2025. Its current validity is not confirmed, so a booking at that rate cannot be promised."
+    },
+    "source_refs": [
+      "message178"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-086",
+    "category": "cases",
+    "question": {
+      "ru": "Был результат у «Антиплагиата»?",
+      "en": "What was the result for Antiplagiat?"
+    },
+    "answer": {
+      "ru": "Публикация от 30 октября 2025 года сообщает о контракте с иранской стороной. В приложенном благодарственном письме также говорится о заключении контракта при содействии Interbrain. Это кейс из архива, не гарантия аналогичного результата.",
+      "en": "The post dated 30 October 2025 reports a contract with an Iranian party. The attached thank-you letter also states that a contract was signed with Interbrain's support. This is an archived case, not a guarantee of the same result."
+    },
+    "source_refs": [
+      "message199",
+      "message203",
+      "photos/[email removed]"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-087",
+    "category": "cases",
+    "question": {
+      "ru": "Что сделали для ЭПОТОС?",
+      "en": "What did you do for EPOTOS?"
+    },
+    "answer": {
+      "ru": "В отчёте от 3 декабря 2025 года описаны предварительное изучение задачи и девять встреч с профильными предприятиями, дистрибьюторами и госструктурами Ирана. Подтверждения суммы продаж в тексте нет.",
+      "en": "The report dated 3 December 2025 describes preparatory work and nine meetings with relevant Iranian manufacturers, distributors and public bodies. The text does not establish a sales amount."
+    },
+    "source_refs": [
+      "message237"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-088",
+    "category": "cases",
+    "question": {
+      "ru": "Есть кейс в электротехнике?",
+      "en": "Is there an electrical-engineering case study?"
+    },
+    "answer": {
+      "ru": "В публикации от 15 ноября 2025 года упоминается ZETO и второе организованное для компании мероприятие в Иране. В архиве есть ссылка на видеоотзыв; его содержание без расшифровки не пересказываю.",
+      "en": "A post dated 15 November 2025 mentions ZETO and a second event organised for the company in Iran. The archive includes a video testimonial, but I will not paraphrase its contents without a transcript."
+    },
+    "source_refs": [
+      "message224"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-089",
+    "category": "cases",
+    "question": {
+      "ru": "Шесть соглашений в Афганистане — это выполненные поставки?",
+      "en": "Do the six Afghanistan agreements mean completed deliveries?"
+    },
+    "answer": {
+      "ru": "Нет такого подтверждения в этой публикации. 14 февраля 2026 года автор написал о шести предварительных соглашениях и подготовке к первым отгрузкам. Предварительное соглашение и выполненная поставка — разные статусы.",
+      "en": "That post does not confirm completed deliveries. On 14 February 2026, the author reported six preliminary agreements and preparations for initial shipments. A preliminary agreement and a completed delivery are different stages."
+    },
+    "source_refs": [
+      "message315"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-090",
+    "category": "cases",
+    "question": {
+      "ru": "Сделка на 1,5 млн долларов уже оплачена?",
+      "en": "Has the USD 1.5 million deal been paid?"
+    },
+    "answer": {
+      "ru": "В пересланном сообщении от 18 февраля 2026 года указана оценка соглашения около 1,5 млн долларов и план первой поставки. Оплата и исполнение этим сообщением не подтверждены.",
+      "en": "The forwarded post dated 18 February 2026 gives an agreement value of approximately USD 1.5 million and describes a planned first shipment. It does not confirm payment or completion."
+    },
+    "source_refs": [
+      "message323"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-091",
+    "category": "cases",
+    "question": {
+      "ru": "Что подписал Торговый дом Тюменской области?",
+      "en": "What did the Tyumen Region Trading House sign?"
+    },
+    "answer": {
+      "ru": "В публикации от 30 июля 2026 года описаны меморандумы по удобрениям, кормам и фармацевтической продукции. Я не буду называть их оплаченными контрактами или завершёнными поставками.",
+      "en": "The post dated 30 July 2026 describes memoranda covering fertilisers, animal feed and pharmaceutical products. I will not describe them as paid contracts or completed deliveries."
+    },
+    "source_refs": [
+      "message355"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-092",
+    "category": "cases",
+    "question": {
+      "ru": "Есть опыт с пчеловодством?",
+      "en": "Do you have experience with beekeeping businesses?"
+    },
+    "answer": {
+      "ru": "В марте 2025 года в канале описаны миссия и B2B-встречи в Иране с участием представителей пчеловодства. Какой продукт или оборудование вы предлагаете?",
+      "en": "In March 2025, the channel described a mission and B2B meetings in Iran involving beekeeping representatives. What product or equipment do you offer?"
+    },
+    "source_refs": [
+      "message121",
+      "message123"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-093",
+    "category": "cases",
+    "question": {
+      "ru": "Можете помочь с нефтегазовым оборудованием в Саудовской Аравии?",
+      "en": "Can you help with oil and gas equipment in Saudi Arabia?"
+    },
+    "answer": {
+      "ru": "В отчёте от марта 2025 года описана миссия с нефтегазовыми компаниями Тюменской области в Саудовскую Аравию. Новую задачу нужно оценить отдельно. Какое оборудование у вас?",
+      "en": "A March 2025 report describes a Saudi Arabia mission involving oil and gas companies from Tyumen Region. A new project needs a separate assessment. What equipment do you offer?"
+    },
+    "source_refs": [
+      "message130"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-094",
+    "category": "cases",
+    "question": {
+      "ru": "Есть покупатель на 1000 тонн масла в месяц?",
+      "en": "Do you have a buyer for 1,000 tonnes of oil per month?"
+    },
+    "answer": {
+      "ru": "В публикации от 12 февраля 2026 года говорится о закупках около 1000 тонн подсолнечного масла в месяц у обсуждаемой компании. Это не действующая подтверждённая заявка на ваш товар. Какой объём вы можете поставить?",
+      "en": "The 12 February 2026 post discusses a company's purchases of approximately 1,000 tonnes of sunflower oil per month. This is not a verified current purchase order for your product. What quantity can you supply?"
+    },
+    "source_refs": [
+      "message312"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-095",
+    "category": "cases",
+    "question": {
+      "ru": "Можете вывести продукцию в Asia Store?",
+      "en": "Can you get our products into Asia Store?"
+    },
+    "answer": {
+      "ru": "В апреле 2026 года опубликована подпись о переговорах с сетью Asia Store. Условия размещения товара и действующий интерес сети не указаны. Можем подготовить запрос по вашей продукции.",
+      "en": "An April 2026 caption mentions negotiations with Asia Store. Listing terms and current buyer interest are not specified. We can prepare an enquiry about your products."
+    },
+    "source_refs": [
+      "message334"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-096",
+    "category": "tableware",
+    "question": {
+      "ru": "Вы занимаетесь оптовой посудой из Ирана?",
+      "en": "Do you handle wholesale tableware from Iran?"
+    },
+    "answer": {
+      "ru": "В декабре 2025 и январе 2026 года канал публиковал каталоги и приглашал обращаться по оптовым закупкам посуды. Для нового заказа нужно подтвердить ассортимент и условия. Какую коллекцию ищете?",
+      "en": "In December 2025 and January 2026, the channel published catalogues and invited wholesale tableware enquiries. Availability and terms for a new order need confirmation. Which collection interests you?"
+    },
+    "source_refs": [
+      "message263",
+      "message305"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-097",
+    "category": "tableware",
+    "question": {
+      "ru": "Какие коллекции есть в архиве?",
+      "en": "Which collections are in the archive?"
+    },
+    "answer": {
+      "ru": "В документах есть Atusa, Elina, Lotus, Roysa, Sweety, Larisa/Larissa, Sarina, Delaris, Niatus, Elika, Adlya и Butterfly. Наличие каталога не означает наличие товара на складе.",
+      "en": "The documents include Atusa, Elina, Lotus, Roysa, Sweety, Larisa/Larissa, Sarina, Delaris, Niatus, Elika, Adlya and Butterfly. A catalogue does not establish current stock availability."
+    },
+    "source_refs": [
+      "documents_manifest"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-098",
+    "category": "tableware",
+    "question": {
+      "ru": "Как заказать расчёт посуды?",
+      "en": "How do I request a tableware quotation?"
+    },
+    "answer": {
+      "ru": "Пришлите коллекцию, артикул или страницу каталога и количество. Затем уточним город доставки и срок. Итоговая цена требует подтверждения; архивный прайс не является счётом.",
+      "en": "Please provide the collection, item code or catalogue page and quantity. We can then clarify the delivery city and timing. The final price requires confirmation; an archived price list is not an invoice."
+    },
+    "source_refs": [
+      "message305"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-099",
+    "category": "tableware",
+    "question": {
+      "ru": "Можно подобрать по фото?",
+      "en": "Can you identify an item from a photo?"
+    },
+    "answer": {
+      "ru": "Если обработка изображений подключена, сравню фото с загруженными каталогами и покажу возможные совпадения. Перед заказом нужно подтвердить коллекцию и артикул. Если изображение не читается, понадобится код или страница.",
+      "en": "If image processing is enabled, I can compare the photo with imported catalogues and suggest matches. The collection and item code must be confirmed before ordering. If the image cannot be read, please provide a code or page."
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-100",
+    "category": "tableware",
+    "question": {
+      "ru": "GK701108 достаточно для точного заказа?",
+      "en": "Is GK701108 enough to identify the item?"
+    },
+    "answer": {
+      "ru": "Нет: похожие базовые артикулы встречаются в нескольких коллекциях. Нужны коллекция, цвет/вариант, полный код и источник. Например, чайные наборы с этим базовым кодом есть в нескольких каталогах.",
+      "en": "No. Similar base item codes occur in multiple collections. We need the collection, colour or variant, full code and source. Tea sets using this base code appear in several catalogues."
+    },
+    "source_refs": [
+      "files/ELINA-FINAL-rasha.pdf",
+      "files/lOTUS-rasha.pdf",
+      "files/ROYSA-FINAL-RASHA.pdf"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-101",
+    "category": "tableware",
+    "question": {
+      "ru": "PCS/CTN — это минимальный заказ?",
+      "en": "Does PCS/CTN mean the minimum order?"
+    },
+    "answer": {
+      "ru": "Этот столбец относится к количеству единиц в картоне по прайсу. Он сам по себе не подтверждает минимальную партию заказа или цену за картон. Единицу продажи нужно согласовать.",
+      "en": "That column describes the quantity per carton in the price list. It does not by itself establish the minimum order or the price per carton. The selling unit needs confirmation."
+    },
+    "source_refs": [
+      "files/BLUE ELINA-$.pdf:p1"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-102",
+    "category": "tableware",
+    "question": {
+      "ru": "28 PCS — это на 28 человек?",
+      "en": "Does 28 PCS mean a set for 28 people?"
+    },
+    "answer": {
+      "ru": "Нет, маркировка 28 PCS указывает количество предметов, а не людей. Состав набора нужно смотреть на странице конкретной коллекции.",
+      "en": "No. The 28 PCS label indicates the number of pieces, not the number of people. The composition must be checked on the specific collection page."
+    },
+    "source_refs": [
+      "files/ELINA-FINAL-rasha.pdf:p4",
+      "files/lOTUS-rasha.pdf:p12"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-103",
+    "category": "tableware",
+    "question": {
+      "ru": "Цены в каталогах уже с доставкой и таможней?",
+      "en": "Do catalogue prices include shipping and customs?"
+    },
+    "answer": {
+      "ru": "В публикации от 25 января 2026 года они описаны как базовые цены фабрик. Для стоимости в РФ нужен отдельный расчёт. Пришлите модели, количество и город доставки.",
+      "en": "The 25 January 2026 post describes them as factory base prices. A separate calculation is needed for the delivered cost in Russia. Please provide models, quantities and the delivery city."
+    },
+    "source_refs": [
+      "message305"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-104",
+    "category": "tableware",
+    "question": {
+      "ru": "Можно просто прибавить 60 процентов?",
+      "en": "Can I simply add 60 percent?"
+    },
+    "answer": {
+      "ru": "Около 60% было опубликовано как примерный ориентир 25 января 2026 года. Это не универсальный действующий тариф и не точная смета. Новый заказ требует расчёта по партии.",
+      "en": "Approximately 60% was published as an indicative guide on 25 January 2026. It is not a universal current tariff or an exact quotation. A new order requires a shipment-specific calculation."
+    },
+    "source_refs": [
+      "message305"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-105",
+    "category": "tableware",
+    "question": {
+      "ru": "Есть скидка 10–30 процентов?",
+      "en": "Is a 10–30 percent discount available?"
+    },
+    "answer": {
+      "ru": "Такой диапазон скидок от фабрик для крупных заказов упомянут в январском посте. Для вашей модели и объёма скидка не подтверждена. Какой объём планируете?",
+      "en": "That range of factory discounts for large orders was mentioned in the January post. A discount for your model and quantity is not confirmed. What volume are you considering?"
+    },
+    "source_refs": [
+      "message305"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-106",
+    "category": "tableware",
+    "question": {
+      "ru": "Можно смешать разные коллекции в заказе?",
+      "en": "Can I mix collections in one order?"
+    },
+    "answer": {
+      "ru": "В архиве условия смешанных заказов не указаны. Подготовим список коллекций и количеств для согласования с поставщиком.",
+      "en": "Mixed-order terms are not specified in the archive. We can prepare a list of collections and quantities for supplier confirmation."
+    },
+    "source_refs": [
+      "documents_manifest"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-107",
+    "category": "tableware",
+    "question": {
+      "ru": "Есть розница или только опт?",
+      "en": "Do you sell retail or wholesale only?"
+    },
+    "answer": {
+      "ru": "В канале прямо предложены оптовые закупки. Розничные условия и минимальный заказ не указаны, поэтому их нужно уточнить. Сколько единиц вам нужно?",
+      "en": "The channel explicitly invites wholesale enquiries. Retail terms and minimum orders are not specified, so they need confirmation. How many units do you need?"
+    },
+    "source_refs": [
+      "message263"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-108",
+    "category": "tableware",
+    "question": {
+      "ru": "Из чего сделана Atusa?",
+      "en": "What is Atusa made of?"
+    },
+    "answer": {
+      "ru": "В каталоге ATUSA материал указан как stoneware. Для выбранного артикула можно подготовить карточку; конкретные сертификаты и условия эксплуатации нужно проверять отдельно.",
+      "en": "The ATUSA catalogue identifies the material as stoneware. We can prepare an item record; certifications and specific care instructions need separate checking."
+    },
+    "source_refs": [
+      "files/ATUSA-FINAL-rasha.pdf:p2"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-109",
+    "category": "tableware",
+    "question": {
+      "ru": "Какие наборы Atusa показаны?",
+      "en": "Which Atusa sets are shown?"
+    },
+    "answer": {
+      "ru": "В каталоге показаны наборы с маркировками 18PCS и 4PCS, а также отдельные предметы и варианты с суффиксами артикула. Количество предметов не следует автоматически считать числом персон.",
+      "en": "The catalogue shows sets labelled 18PCS and 4PCS, individual items and variants with item-code suffixes. Piece counts should not automatically be treated as place settings."
+    },
+    "source_refs": [
+      "files/ATUSA-FINAL-rasha.pdf:p3-p12"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-110",
+    "category": "tableware",
+    "question": {
+      "ru": "Чем отличаются цвета Elina?",
+      "en": "How do the Elina colour variants differ?"
+    },
+    "answer": {
+      "ru": "В архиве есть отдельные прайсы Blue, Green и Silver Elina. Для точного выбора нужно сопоставить вариант, артикул и изображение; одинаковая форма не означает одинаковый код.",
+      "en": "The archive has separate Blue, Green and Silver Elina price lists. The variant, item code and image must be matched; the same shape does not imply the same code."
+    },
+    "source_refs": [
+      "files/BLUE ELINA-$.pdf",
+      "files/GREEN ELINA.pdf",
+      "files/SILVER ELINA-$.pdf"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-111",
+    "category": "tableware",
+    "question": {
+      "ru": "Из чего Elina, Lotus и Sarina?",
+      "en": "What are Elina, Lotus and Sarina made of?"
+    },
+    "answer": {
+      "ru": "В описаниях этих коллекций указан New Bone China. Это формулировка каталогов; точный состав и сертификаты по конкретной позиции следует запросить у производителя.",
+      "en": "Their catalogue descriptions specify New Bone China. This is the catalogue wording; the exact composition and certifications for an item should be requested from the manufacturer."
+    },
+    "source_refs": [
+      "files/ELINA-FINAL-rasha.pdf:p2",
+      "files/lOTUS-rasha.pdf:p2",
+      "files/SARINA-FINAL-RASHA.pdf:p2"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-112",
+    "category": "tableware",
+    "question": {
+      "ru": "Delaris Gold — это посуда из золота?",
+      "en": "Is Delaris Gold made of gold?"
+    },
+    "answer": {
+      "ru": "В каталоге Delaris материал описан как латунь с вариантами отделки gold и silver. Название Gold не означает, что изделие изготовлено из золота.",
+      "en": "The Delaris catalogue describes brass with gold and silver finishes. The name Gold does not mean the item is made of gold."
+    },
+    "source_refs": [
+      "files/DELARIS-Gold-Rasha.pdf:p2",
+      "files/DELARIS-Silver-Rasha.pdf:p2"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-113",
+    "category": "tableware",
+    "question": {
+      "ru": "Что за материал у Niatus?",
+      "en": "What material is used for Niatus?"
+    },
+    "answer": {
+      "ru": "Каталог Niatus описывает сочетание фарфора и латунных элементов. Упоминание итальянского дизайна не подтверждает производство в Италии.",
+      "en": "The Niatus catalogue describes porcelain combined with brass elements. A reference to Italian design does not establish Italian manufacture."
+    },
+    "source_refs": [
+      "files/Niatus2.pdf:p2"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-114",
+    "category": "tableware",
+    "question": {
+      "ru": "Можно мыть всю посуду в машине и ставить в СВЧ?",
+      "en": "Is all the tableware dishwasher- and microwave-safe?"
+    },
+    "answer": {
+      "ru": "Нельзя переносить свойства одной коллекции на весь ассортимент. В текстах Lotus и Sarina такие свойства заявлены, но для выбранного артикула, особенно с металлическим декором, следует подтвердить инструкцию производителя.",
+      "en": "Properties stated for one collection cannot be applied to the entire range. Lotus and Sarina descriptions make these claims, but the manufacturer's instructions must be confirmed for the selected item, especially with metallic decoration."
+    },
+    "source_refs": [
+      "files/lOTUS-rasha.pdf:p2",
+      "files/SARINA-FINAL-RASHA.pdf:p2"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-115",
+    "category": "tableware",
+    "question": {
+      "ru": "Почему в Sarina набор стоит 8,15 доллара?",
+      "en": "Why is a Sarina dinner set listed at 8.15 dollars?"
+    },
+    "answer": {
+      "ru": "В строке GK646387 на странице 7 прайса действительно напечатано 8.15 в столбце PRICE/$. Значение требует проверки поставщиком; я не исправляю его догадкой и не использую для счёта.",
+      "en": "The GK646387 row on page 7 does show 8.15 in the PRICE/$ column. The supplier must verify this value; I will not guess a correction or use it to issue a quote."
+    },
+    "source_refs": [
+      "files/SARINA-$.pdf:p7"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-116",
+    "category": "tableware",
+    "question": {
+      "ru": "Почему у Lotus чайный набор 329,57?",
+      "en": "Why is the Lotus tea set listed as 329.57?"
+    },
+    "answer": {
+      "ru": "В Word-прайсе для чайного набора GK701108 указано 329.57. Это значение нужно уточнить вместе с валютой и единицей продажи; автоматически менять десятичную точку нельзя.",
+      "en": "The Word price list shows 329.57 for tea set GK701108. The value, currency and selling unit need clarification; the decimal point must not be silently changed."
+    },
+    "source_refs": [
+      "files/LOTUS-$.docx:table-row7"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-117",
+    "category": "tableware",
+    "question": {
+      "ru": "Почему у Roysa цена 39 900 000?",
+      "en": "Why does Roysa show a price of 39,900,000?"
+    },
+    "answer": {
+      "ru": "В распознанной строке прайса Roysa такое значение встречается рядом с GK701139. Возможное несоответствие валюты или оформления требует визуальной проверки и подтверждения поставщика, а не автоматического пересчёта.",
+      "en": "The OCR text of the Roysa price list shows that value near GK701139. A possible currency or formatting mismatch requires visual verification and supplier confirmation, not automatic conversion."
+    },
+    "source_refs": [
+      "files/ROYSA-$.pdf:p5:ocr"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-118",
+    "category": "tableware",
+    "question": {
+      "ru": "Можно выбрать только сахарницы или подносы?",
+      "en": "Can I order just sugar pots or trays?"
+    },
+    "answer": {
+      "ru": "В каталогах есть отдельные позиции, но возможность заказа поштучно и упаковочную кратность нужно подтвердить. Какая коллекция и количество вас интересуют?",
+      "en": "The catalogues include individual items, but individual ordering and pack multiples need confirmation. Which collection and quantity interest you?"
+    },
+    "source_refs": [
+      "files/lOTUS-rasha.pdf",
+      "files/DELARIS-Gold-Rasha.pdf"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-119",
+    "category": "tableware",
+    "question": {
+      "ru": "Можно получить эксклюзив на коллекцию?",
+      "en": "Can I get exclusivity for a collection?"
+    },
+    "answer": {
+      "ru": "Условий эксклюзивной дистрибуции в архиве нет. Могу подготовить предложение с территорией, каналом продаж и предполагаемым объёмом для обсуждения.",
+      "en": "The archive contains no exclusive-distribution terms. I can prepare a proposal with the territory, sales channel and expected volume for discussion."
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-120",
+    "category": "tableware",
+    "question": {
+      "ru": "Есть сертификаты для продажи посуды в России?",
+      "en": "Are certifications available for selling the tableware in Russia?"
+    },
+    "answer": {
+      "ru": "Каталоги не заменяют документы о соответствии. В предоставленном наборе такие сертификаты не установлены. Для выбранных изделий нужно запросить документы и проверить требования.",
+      "en": "Catalogues are not conformity documents. Such certificates have not been established in the supplied materials. Documents and applicable requirements need checking for the selected items."
+    },
+    "source_refs": [
+      "documents_manifest"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-121",
+    "category": "food",
+    "question": {
+      "ru": "Есть финики Мазафати?",
+      "en": "Do you offer Mazafati dates?"
+    },
+    "answer": {
+      "ru": "В канале есть предложение иранских фиников Мазафати от 25 января 2026 года. Наличие, текущая цена и условия конкретной партии требуют подтверждения. Какой объём нужен?",
+      "en": "The channel contains an Iranian Mazafati dates offer dated 25 January 2026. Stock, current pricing and batch terms require confirmation. What quantity do you need?"
+    },
+    "source_refs": [
+      "message310"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-122",
+    "category": "food",
+    "question": {
+      "ru": "Какие цены на финики были опубликованы?",
+      "en": "What prices were published for dates?"
+    },
+    "answer": {
+      "ru": "В посте от 25 января 2026 года указаны 160, 150, 140 и 130 ₽ за пачку в зависимости от суммы закупки; от 1 млн ₽ или фуры — индивидуально. Это архивные цены, не действующий прайс.",
+      "en": "The 25 January 2026 post lists RUB 160, 150, 140 and 130 per pack depending on order value, with individual terms from RUB 1 million or a truckload. These are archived prices, not a current price list."
+    },
+    "source_refs": [
+      "message310"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-123",
+    "category": "food",
+    "question": {
+      "ru": "Какую цену считать ровно при заказе на 300 тысяч?",
+      "en": "Which price applies to an order of exactly RUB 300,000?"
+    },
+    "answer": {
+      "ru": "Границы диапазонов в публикации пересекаются и отдельно не разъяснены. Не буду выбирать тариф догадкой: сумму и цену нужно согласовать с продавцом.",
+      "en": "The published ranges overlap at their boundaries and are not clarified. I will not guess a rate; the order value and price need seller confirmation."
+    },
+    "source_refs": [
+      "message310"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-124",
+    "category": "food",
+    "question": {
+      "ru": "Сколько граммов в пачке фиников?",
+      "en": "How many grams are in a pack of dates?"
+    },
+    "answer": {
+      "ru": "В тексте предложения вес пачки не указан. До расчёта цены за килограмм нужно подтвердить массу нетто и упаковку выбранной партии.",
+      "en": "The offer text does not specify pack weight. Net weight and packaging for the batch must be confirmed before calculating a price per kilogram."
+    },
+    "source_refs": [
+      "message310"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-125",
+    "category": "food",
+    "question": {
+      "ru": "Как хранить и какой срок годности?",
+      "en": "How should the dates be stored, and what is their shelf life?"
+    },
+    "answer": {
+      "ru": "В текстовом предложении эти параметры не раскрыты. Нужны маркировка и спецификация конкретной партии; универсальные условия хранения по названию сорта не подтверждаю.",
+      "en": "The text offer does not specify these details. We need the label and specification for the actual batch; I cannot confirm universal storage conditions from the variety name alone."
+    },
+    "source_refs": [
+      "message310"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-126",
+    "category": "food",
+    "question": {
+      "ru": "Какие ещё товары упоминались для импорта из Ирана?",
+      "en": "What other Iranian import categories were mentioned?"
+    },
+    "answer": {
+      "ru": "В публикации от августа 2024 года автор перечислял фрукты и сухофрукты, ковры, орехи и специи, химическую продукцию, косметику и лекарства. Это исторический обзор автора, не подтверждение наличия, разрешений или спроса сегодня.",
+      "en": "In August 2024, the author listed fruit and dried fruit, carpets, nuts and spices, chemicals, cosmetics and medicines. This is a historical overview, not confirmation of current stock, permissions or demand."
+    },
+    "source_refs": [
+      "message73"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-127",
+    "category": "materials",
+    "question": {
+      "ru": "Можно получить запись встречи об Афганистане?",
+      "en": "Can I get the Afghanistan webinar recording?"
+    },
+    "answer": {
+      "ru": "В посте от 11 июня 2026 года опубликована ссылка на запись: https://disk.yandex.ru/d/Np99muHRiJSeRw . Текущая доступность ссылки не проверена; если она не откроется, запросим запись у команды.",
+      "en": "The 11 June 2026 post shares this recording link: https://disk.yandex.ru/d/Np99muHRiJSeRw . Its current availability has not been checked; if it does not open, the team can be asked for the recording."
+    },
+    "source_refs": [
+      "message344"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-128",
+    "category": "materials",
+    "question": {
+      "ru": "Где выступление про работу с Ираном?",
+      "en": "Where is the talk on doing business with Iran?"
+    },
+    "answer": {
+      "ru": "В архиве опубликована ссылка https://www.youtube.com/watch?v=tpJGhyowaow и описание выступления в Сколково. Содержание видео без расшифровки не пересказываю; сведения о расчётах в нём могут устареть.",
+      "en": "The archive shares https://www.youtube.com/watch?v=tpJGhyowaow and describes a Skolkovo talk. I will not summarise the video without a transcript; any payment information may be outdated."
+    },
+    "source_refs": [
+      "message192",
+      "message193"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-129",
+    "category": "materials",
+    "question": {
+      "ru": "Можно применить схему из презентации по платежам?",
+      "en": "Can I use a payment structure from the presentation?"
+    },
+    "answer": {
+      "ru": "В архиве есть презентация сторонних экспертов с датой 24 сентября 2025 года. Она не является актуальным одобрением вашей сделки или перечнем услуг Арслана-Али. Конкретный платёж требует проверки специалистом.",
+      "en": "The archive includes a third-party expert presentation dated 24 September 2025. It is not current approval of your transaction or a list of Arslan-Ali's services. A specific payment requires specialist review."
+    },
+    "source_refs": [
+      "message216",
+      "message217",
+      "files/Леер_Донченко_Компонента_Международные_платежи_24_09_2025.pdf"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-130",
+    "category": "materials",
+    "question": {
+      "ru": "Работает ли сейчас карта «Мир» в Иране?",
+      "en": "Does the Mir card work in Iran now?"
+    },
+    "answer": {
+      "ru": "Архив содержит новости и планы подключения за 2024 год. Они не подтверждают работу конкретной карты сегодня. Нужна актуальная проверка у банка и платёжной системы.",
+      "en": "The archive contains 2024 news and rollout plans. These do not establish whether a particular card works today. Current confirmation from the bank and payment system is needed."
+    },
+    "source_refs": [
+      "message111",
+      "message113",
+      "message114"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-131",
+    "category": "materials",
+    "question": {
+      "ru": "Соглашение ЕАЭС с Ираном обнуляет мою пошлину?",
+      "en": "Does the EAEU–Iran agreement eliminate my duty?"
+    },
+    "answer": {
+      "ru": "В канале есть публикация о соглашении, но по ней нельзя определить ставку для вашего товара. Нужны код, происхождение, документы и актуальные правила; передадим вопрос специалисту.",
+      "en": "The channel has a post about the agreement, but it does not establish the rate for your product. Classification, origin, documents and current rules need review by a specialist."
+    },
+    "source_refs": [
+      "message158"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-132",
+    "category": "materials",
+    "question": {
+      "ru": "Вы помогаете с КИК, ТЦО и иностранными компаниями?",
+      "en": "Do you advise on CFCs, transfer pricing and foreign companies?"
+    },
+    "answer": {
+      "ru": "Эти темы есть в презентации приглашённых экспертов. Это не подтверждает, что команда Арслана-Али оказывает все перечисленные услуги. Опишите задачу — уточним подходящего специалиста.",
+      "en": "These topics appear in a guest-expert presentation. That does not establish that Arslan-Ali's team provides all those services. Describe your needs so the appropriate specialist can be confirmed."
+    },
+    "source_refs": [
+      "files/Леер_Донченко_Компонента_Международные_платежи_24_09_2025.pdf:p39-p70"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-133",
+    "category": "materials",
+    "question": {
+      "ru": "Почему в постах разные номера?",
+      "en": "Why do the posts show different phone numbers?"
+    },
+    "answer": {
+      "ru": "В архиве действительно есть несколько контактов, в том числе два похожих российских номера и отдельный контакт по Ирану. Я не буду угадывать, какой использовать: нужен утверждённый контакт для вашей задачи.",
+      "en": "The archive contains several contacts, including two similar Russian numbers and a separate Iran contact. I will not guess which to use; an approved contact is needed for your enquiry."
+    },
+    "source_refs": [
+      "message244",
+      "message246",
+      "message248",
+      "message352"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-134",
+    "category": "language_and_actions",
+    "question": {
+      "ru": "Переключись на английский и сохрани заказ.",
+      "en": "Switch to English and keep my order."
+    },
+    "answer": {
+      "ru": "Переключаю язык ответов на английский. Содержимое вашей текущей заявки сохраняется; новую заявку создавать не нужно.",
+      "en": "I’m switching replies to English. Your current enquiry details are retained; there is no need to create a new enquiry."
+    },
+    "source_refs": [
+      "language_policy"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-135",
+    "category": "language_and_actions",
+    "question": {
+      "ru": "Отвечай по-русски, даже если я пишу на английском.",
+      "en": "Reply in Russian even when I write in English."
+    },
+    "answer": {
+      "ru": "Хорошо, закрепляю русский язык ответов. Английские сообщения продолжу понимать. Вернуться к автоматическому выбору можно командой Auto.",
+      "en": "I can set Russian as the reply language while still understanding English input. Use Auto to restore automatic language selection."
+    },
+    "source_refs": [
+      "language_policy"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-136",
+    "category": "language_and_actions",
+    "question": {
+      "ru": "Сам определяй язык каждого сообщения.",
+      "en": "Automatically detect the language of my messages."
+    },
+    "answer": {
+      "ru": "Включаю Auto: буду отвечать на языке содержательного сообщения. Короткие «OK», артикулы и ссылки не будут случайно менять язык.",
+      "en": "Auto mode is on: I will reply in the language of a meaningful message. Short replies such as “OK”, item codes and links will not accidentally switch the language."
+    },
+    "source_refs": [
+      "language_policy"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-137",
+    "category": "language_and_actions",
+    "question": {
+      "ru": "Я пишу по-английски, а каталог русский. Справишься?",
+      "en": "Can you answer in English from a Russian catalogue?"
+    },
+    "answer": {
+      "ru": "Да, при подключённом поиске буду использовать сведения из каталога и отвечать по-английски, сохраняя артикулы, валюты и единицы. Нечитаемые или противоречивые поля отмечу отдельно.",
+      "en": "Yes. With document search enabled, I can use the catalogue and answer in English while preserving item codes, currencies and units. I will flag unreadable or conflicting fields."
+    },
+    "source_refs": [
+      "language_policy"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-138",
+    "category": "language_and_actions",
+    "question": {
+      "ru": "Можешь показать заявку на двух языках?",
+      "en": "Can you show my enquiry in both languages?"
+    },
+    "answer": {
+      "ru": "Да, после подготовки покажу русскую и английскую версии для проверки. Они должны содержать одинаковые товары, количества, сроки и пожелания; подтвердите исправления перед передачей.",
+      "en": "Yes. Once prepared, I can show Russian and English versions for review. They must contain the same products, quantities, timing and preferences; please confirm corrections before handover."
+    },
+    "source_refs": [
+      "language_policy"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-139",
+    "category": "language_and_actions",
+    "question": {
+      "ru": "Я хочу исправить количество, а не начать заново.",
+      "en": "I want to change the quantity, not start over."
+    },
+    "answer": {
+      "ru": "Обновим количество в текущей заявке и сохраним остальные данные. Какое значение и единицу нужно указать? После сохранения покажу обновлённое резюме.",
+      "en": "We can update the quantity in your current enquiry and retain the other details. What value and unit should be used? Once saved, I will show the updated summary."
+    },
+    "source_refs": [
+      "product_design"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  },
+  {
+    "id": "FAQ-140",
+    "category": "language_and_actions",
+    "question": {
+      "ru": "Можешь прислать точный счёт сразу из каталога?",
+      "en": "Can you issue a final invoice directly from the catalogue?"
+    },
+    "answer": {
+      "ru": "Архивный каталог позволяет подготовить подборку, но не подтверждает действующую цену, наличие, доставку и реквизиты. Сначала нужен согласованный расчёт. Могу собрать позиции для коммерческого предложения.",
+      "en": "An archived catalogue can support a shortlist, but it does not confirm current prices, stock, delivery or payment details. An approved quotation is needed first. I can collect the items for a commercial proposal."
+    },
+    "source_refs": [
+      "message305",
+      "documents_manifest"
+    ],
+    "status": "draft",
+    "original_status": "draft_for_owner_review",
+    "source_file": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+    "source_language": "ru",
+    "reconstructed_from_markdown": true
+  }
+]

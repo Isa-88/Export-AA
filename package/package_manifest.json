@@ -1,0 +1,12 @@
+{
+  "input": "Arslan_Ali_Codex_Prompt_RU_EN_v3.md",
+  "sha256": "c558a9b8d30fde2e9ec28c0ffee64db38f8a2ea47940c91d6f8d4872e4f8e4ba",
+  "received_format": "compound_markdown",
+  "reconstructed_files": [
+    "MASTER_PROMPT.md",
+    "SOURCE_REVIEW.md",
+    "FAQ_RU_EN.md",
+    "faq_ru_en.json"
+  ],
+  "note": "Standalone JSON, previous document_text and OCR files were not supplied. Rebuilt locally; no claim to reproduce prior OCR."
+}

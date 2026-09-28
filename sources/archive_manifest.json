@@ -1,0 +1,4248 @@
+[
+  {
+    "id": "file-1fc556f95754ee7e",
+    "file_path": "archive/ChatExport_2026-09-16/css/style.css",
+    "size": 44115,
+    "sha256": "661a73308ad9b93227b2677faff238513c64dd28137451bb1156a5da6337700b",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-a543bbaf3d2a89b4",
+    "file_path": "archive/ChatExport_2026-09-16/files/ADLYA-$.pdf",
+    "size": 218271,
+    "sha256": "6602da33034f88d18c040cba447571bf7967d0bba59d235487ce006635665638",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message303"
+    ]
+  },
+  {
+    "id": "file-b2ac0ef28c75a596",
+    "file_path": "archive/ChatExport_2026-09-16/files/ADLYA-$.pdf_thumb.jpg",
+    "size": 15257,
+    "sha256": "80a710f1db36f80c69fcd60fb33d45f0d26044ff1c6c87a089cb2e85e0a090a4",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-53ea0d385a58aac7",
+    "file_path": "archive/ChatExport_2026-09-16/files/ATUSA-FINAL-rasha.pdf",
+    "size": 873169,
+    "sha256": "11f33023cb2a0d5bf6833a19ca16f6674a646df13a44c7424dfe16401eff1b50",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message262"
+    ]
+  },
+  {
+    "id": "file-ead9ce1349f0a683",
+    "file_path": "archive/ChatExport_2026-09-16/files/ATUSA-FINAL-rasha.pdf_thumb.jpg",
+    "size": 12019,
+    "sha256": "57d6979113e7b14e6108f71d4e8565404eee5e7996a44fc2604cb0fbca6119b8",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-75481ea58479f867",
+    "file_path": "archive/ChatExport_2026-09-16/files/BLUE ELINA-$.pdf",
+    "size": 298068,
+    "sha256": "ada87273d4b3ab2353cb4c8884d278035fe7880b6218e6f0133ce0941d6dbe11",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message297"
+    ]
+  },
+  {
+    "id": "file-9f74a140953d3821",
+    "file_path": "archive/ChatExport_2026-09-16/files/BLUE ELINA-$.pdf_thumb.jpg",
+    "size": 17336,
+    "sha256": "4abb6db55394de71660f9484607e3b9dcace1f2f0381538f88db243845ecc7f6",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-d16c25790cecbee1",
+    "file_path": "archive/ChatExport_2026-09-16/files/BUTTERFLY-$.pdf",
+    "size": 1280584,
+    "sha256": "d36e7588300c6ba5c5b9a50f387b0a2749b70e3148b71a986fcd3511c1bee38c",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message300"
+    ]
+  },
+  {
+    "id": "file-f90c43fd59eaa2f7",
+    "file_path": "archive/ChatExport_2026-09-16/files/BUTTERFLY-$.pdf_thumb.jpg",
+    "size": 20237,
+    "sha256": "f8f7181a6b29746bedd868ee008138337e1405502a9748646c1451da0885215a",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-d0500a321c8549f5",
+    "file_path": "archive/ChatExport_2026-09-16/files/DELARIS-Gold-Rasha.pdf",
+    "size": 1168091,
+    "sha256": "5d88daff40dc9556c63636f23879598f2dd420ff0d08df4a2bae21bb2a99ed11",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message255"
+    ]
+  },
+  {
+    "id": "file-68c5a5297cbdd185",
+    "file_path": "archive/ChatExport_2026-09-16/files/DELARIS-Gold-Rasha.pdf_thumb.jpg",
+    "size": 28272,
+    "sha256": "e1521eec715862961eb3777c2ccfef69c88e87c82e438fac7a5090de51c6766e",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-cf1e3d3cbe59fa93",
+    "file_path": "archive/ChatExport_2026-09-16/files/DELARIS-Silver-Rasha.pdf",
+    "size": 1366011,
+    "sha256": "92f1334b76257c090931a32af12a60170e7275fe03aaef4ced747ccb6d915683",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message249"
+    ]
+  },
+  {
+    "id": "file-1f27087a54195fa0",
+    "file_path": "archive/ChatExport_2026-09-16/files/DELARIS-Silver-Rasha.pdf_thumb.jpg",
+    "size": 32861,
+    "sha256": "499d9e0dc124cc2267da8bb2da20f951e10e26e8610391009656e4e20d9a93b2",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-1c2723187f07e065",
+    "file_path": "archive/ChatExport_2026-09-16/files/ELIKA-FINAL-RASHA.pdf",
+    "size": 141571,
+    "sha256": "5d4a085c84f1bef3d02f8f72049956cdc1e61f37eacf04c6bae313bb91ad1f8c",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message256"
+    ]
+  },
+  {
+    "id": "file-fd3140ca0e85f09f",
+    "file_path": "archive/ChatExport_2026-09-16/files/ELIKA-FINAL-RASHA.pdf_thumb.jpg",
+    "size": 14037,
+    "sha256": "7669e9537b200198dc9be5748ff70ea79ec0c10e93f1ad15ffe8218db4a135e5",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-c8096bf2cb4e0f48",
+    "file_path": "archive/ChatExport_2026-09-16/files/ELINA-FINAL-rasha.pdf",
+    "size": 921615,
+    "sha256": "1314e51f7d51d8ca2cd6e0cb57ca6933f5b6e8f4a1bd6b6122701d68e8dbf05c",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message250"
+    ]
+  },
+  {
+    "id": "file-8928638276872af5",
+    "file_path": "archive/ChatExport_2026-09-16/files/ELINA-FINAL-rasha.pdf_thumb.jpg",
+    "size": 14817,
+    "sha256": "af108d3553a3c6d04291e189e4cb34f4a46503d3a1a9dcc296719aa7ae104ca4",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-cd9418c5ae5e6c88",
+    "file_path": "archive/ChatExport_2026-09-16/files/GOLD DELARIS.pdf",
+    "size": 2528332,
+    "sha256": "c55ffe2cd659280ccceb6c90c5da02622424bd5b554aec86fdc418948daec6fc",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message291"
+    ]
+  },
+  {
+    "id": "file-7afc455b71516bf2",
+    "file_path": "archive/ChatExport_2026-09-16/files/GOLD DELARIS.pdf_thumb.jpg",
+    "size": 19383,
+    "sha256": "f1fb88362ec8abb9f5ee247c6a4af723dd9843e3e8d249041c0891362b822038",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-c6324d05d83bf4b7",
+    "file_path": "archive/ChatExport_2026-09-16/files/GOLD ELIKA.pdf",
+    "size": 539964,
+    "sha256": "6f216ce27e1bd4f188674b5bc2a83a20be4777f697feb2f079191db61ed97390",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message304"
+    ]
+  },
+  {
+    "id": "file-8a25e8c4430c225b",
+    "file_path": "archive/ChatExport_2026-09-16/files/GOLD ELIKA.pdf_thumb.jpg",
+    "size": 19163,
+    "sha256": "bd992f5b0af83110a33fd1c5419b78811493a27526098fb57962ba37b0d0b80f",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-0d0ed2b5e73b18a4",
+    "file_path": "archive/ChatExport_2026-09-16/files/GREEN ELINA.pdf",
+    "size": 274873,
+    "sha256": "8944fb4e355c2e3e9855cc50b32bbc2ee6d4ec6efd1f1a5e75248e91ec655f10",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message294"
+    ]
+  },
+  {
+    "id": "file-7836d971cdf7ee2b",
+    "file_path": "archive/ChatExport_2026-09-16/files/GREEN ELINA.pdf_thumb.jpg",
+    "size": 15587,
+    "sha256": "0012e4893f0229fad3927762d6b449839d6fe8b7dcd12fd6944707149e2ea109",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-6864601f687a0a64",
+    "file_path": "archive/ChatExport_2026-09-16/files/LARISA-FINAL-rasha.pdf",
+    "size": 648703,
+    "sha256": "dcf6c230f48a96c3df89e1e30c764b7a2b021485932a668c4d9e3872fb1b8e08",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message257"
+    ]
+  },
+  {
+    "id": "file-c3be83ffa9897467",
+    "file_path": "archive/ChatExport_2026-09-16/files/LARISA-FINAL-rasha.pdf_thumb.jpg",
+    "size": 19904,
+    "sha256": "578ba070423c45feb2caec92c4353bc3fb336a23c55d3fb55549e41d0c1a869b",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-21f7160dadeaa45d",
+    "file_path": "archive/ChatExport_2026-09-16/files/LARISSA-$.pdf",
+    "size": 267484,
+    "sha256": "262670d435923d37c244a754c575b60bacd13313206e77f3760fff10a8168c84",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message299"
+    ]
+  },
+  {
+    "id": "file-a1ca0689f883a4da",
+    "file_path": "archive/ChatExport_2026-09-16/files/LARISSA-$.pdf_thumb.jpg",
+    "size": 19677,
+    "sha256": "2a8785e9622c0c7c346685e87c46c5f972f188b85f930d8a49f0c08d6249bad3",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-92e125a079ebc71c",
+    "file_path": "archive/ChatExport_2026-09-16/files/LOTUS-$.docx",
+    "size": 4722667,
+    "sha256": "d2d807a165f909069727e54adffd3c5eeb31ad8e9e489729a2d967f32df22318",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message302"
+    ]
+  },
+  {
+    "id": "file-5dbe28c5456152ec",
+    "file_path": "archive/ChatExport_2026-09-16/files/lOTUS-rasha.pdf",
+    "size": 1036298,
+    "sha256": "b619f8da7b47c74bf357a56a03dfa2b8722402615a0ee9fd94e3aa0c8f12b792",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message251"
+    ]
+  },
+  {
+    "id": "file-f340f70fcdc3b25a",
+    "file_path": "archive/ChatExport_2026-09-16/files/lOTUS-rasha.pdf_thumb.jpg",
+    "size": 23632,
+    "sha256": "94c8d557bbcd541f58dc3eae0c04f1d8ca629b6e9924b6f7065026740bfda4f8",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-084c78f2cc05ffac",
+    "file_path": "archive/ChatExport_2026-09-16/files/NIATUS-$.pdf",
+    "size": 1221862,
+    "sha256": "e8c290f8ea1380dd5abf3f6644f7b46438f44b3199d9b9d55b1b9a068a56205e",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message301"
+    ]
+  },
+  {
+    "id": "file-38d440566743279a",
+    "file_path": "archive/ChatExport_2026-09-16/files/NIATUS-$.pdf_thumb.jpg",
+    "size": 18545,
+    "sha256": "f314e396ae22dda7929ebe7f68e93b2c93e4f140058cbe460fcd6683ccddb1ec",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-730d77da5b75de4a",
+    "file_path": "archive/ChatExport_2026-09-16/files/Niatus2.pdf",
+    "size": 7510636,
+    "sha256": "98b29b047a17d1148aaa41f2eca609fb9eea7da9855b371e017cd36c0b7d420c",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message260"
+    ]
+  },
+  {
+    "id": "file-82b52c116705f1d5",
+    "file_path": "archive/ChatExport_2026-09-16/files/Niatus2.pdf_thumb.jpg",
+    "size": 16831,
+    "sha256": "92432b8a790fb23931eda782db2c19121cbc0280d14d30f763073a00e8414383",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-f1dfa356ceb8a164",
+    "file_path": "archive/ChatExport_2026-09-16/files/ROYSA-$.pdf",
+    "size": 960016,
+    "sha256": "45e36aac82c1c21f753c233d8fe23bac5742bd7c480a122efe396386e93e3ce0",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message295"
+    ]
+  },
+  {
+    "id": "file-6f3ec42ee875ce2f",
+    "file_path": "archive/ChatExport_2026-09-16/files/ROYSA-$.pdf_thumb.jpg",
+    "size": 21051,
+    "sha256": "ecf013346cb856fbdb39397724d4d12ce48097fca82991f6b281efb66baefcca",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-adec6c327bb1f584",
+    "file_path": "archive/ChatExport_2026-09-16/files/ROYSA-FINAL-RASHA.pdf",
+    "size": 860190,
+    "sha256": "079e708256cfb12d2b3b473e20b08c935fef0a65d25f235b950a45a670de1dd6",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message252"
+    ]
+  },
+  {
+    "id": "file-bbb0f8ae8616a893",
+    "file_path": "archive/ChatExport_2026-09-16/files/ROYSA-FINAL-RASHA.pdf_thumb.jpg",
+    "size": 21309,
+    "sha256": "aa478ec7403cca3cc68710c30431b4df5ac99b5de01c9d3fa942ab2d32d5160e",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-92d1f011db7e5cf9",
+    "file_path": "archive/ChatExport_2026-09-16/files/SARINA-$.pdf",
+    "size": 485464,
+    "sha256": "e878f2bd583ae224cb6bf90d2e5a4c1b27f1b7af30e913bdbd59c6ed74748ced",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message296"
+    ]
+  },
+  {
+    "id": "file-010ac781df200140",
+    "file_path": "archive/ChatExport_2026-09-16/files/SARINA-$.pdf_thumb.jpg",
+    "size": 22667,
+    "sha256": "bf088eb6ff67b1a8c324cdecb5774736d2d02a1b4f2d28f72df581156f876bba",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-4f51979a7453bc4f",
+    "file_path": "archive/ChatExport_2026-09-16/files/SARINA-FINAL-RASHA.pdf",
+    "size": 916221,
+    "sha256": "3c812b6dbd153eb6bc52e1d823fc6cf3bbd622907528a7d289328fa0400adbb1",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message258"
+    ]
+  },
+  {
+    "id": "file-4a87bbe243225729",
+    "file_path": "archive/ChatExport_2026-09-16/files/SARINA-FINAL-RASHA.pdf_thumb.jpg",
+    "size": 20339,
+    "sha256": "414f3eba76ca273ea839fd5c8a692e4e643032fd33e4702c7429516fee7c18e3",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-78a4b26c3ae2e998",
+    "file_path": "archive/ChatExport_2026-09-16/files/SILVER ELIKA-$.pdf",
+    "size": 766397,
+    "sha256": "f66bc313e9cacc8b9c94fcfcf759063a0b5ea1859d80c444d11a74dca668ceec",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message292"
+    ]
+  },
+  {
+    "id": "file-6dd445830feb0685",
+    "file_path": "archive/ChatExport_2026-09-16/files/SILVER ELIKA-$.pdf_thumb.jpg",
+    "size": 23917,
+    "sha256": "1aff5e93408f8c7caacd1c8d9eadca58e5674be2920b2de6ef62913022e1677e",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-9badd88931b0aef8",
+    "file_path": "archive/ChatExport_2026-09-16/files/SILVER ELINA-$.pdf",
+    "size": 240463,
+    "sha256": "8f79cca0de6d21ae4e558fa1d65cd2880250c9472236b665868a89c9fe3c787f",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message298"
+    ]
+  },
+  {
+    "id": "file-d816b2ac568c0bbc",
+    "file_path": "archive/ChatExport_2026-09-16/files/SILVER ELINA-$.pdf_thumb.jpg",
+    "size": 16102,
+    "sha256": "4434897f69bcc79c5266ccc01711a7f7dbd6449486264503f09b726f26091c3c",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-ead5082af6de3fcb",
+    "file_path": "archive/ChatExport_2026-09-16/files/SWEETY-$.pdf",
+    "size": 619058,
+    "sha256": "2ec068fc12003190d0eb1a4203f19aa8696dadf2ee48d5e80942709a469b04b7",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message293"
+    ]
+  },
+  {
+    "id": "file-d8095dda4808e17a",
+    "file_path": "archive/ChatExport_2026-09-16/files/SWEETY-$.pdf_thumb.jpg",
+    "size": 19718,
+    "sha256": "d9636d926d95437de834ba28cd91caab23cc6cafa3de1ac0616b0c3b83d5941c",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-c07d7e3144f84ce2",
+    "file_path": "archive/ChatExport_2026-09-16/files/SWEETY-RASHA.pdf",
+    "size": 900718,
+    "sha256": "02b51f80af55054e08d6e855450aee039502613c839b641e9c6d67f23d4963c7",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message253"
+    ]
+  },
+  {
+    "id": "file-d5779e47ae7f000d",
+    "file_path": "archive/ChatExport_2026-09-16/files/SWEETY-RASHA.pdf_thumb.jpg",
+    "size": 17353,
+    "sha256": "39e61ea2f2088ce86701a7d3087203ac8ff5fc525dfefe0c44303578c43f17f5",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-da941fe7a86c3f95",
+    "file_path": "archive/ChatExport_2026-09-16/files/Леер_Донченко_Компонента_Международные_платежи_24_09_2025.pdf",
+    "size": 4526975,
+    "sha256": "9761ee8654be2fe5ea089d1855308771842997b3651048043c09f1def60a85be",
+    "status": "extracted",
+    "reason": "Text extraction only; not verification of every cell",
+    "message_ids": [
+      "message217"
+    ]
+  },
+  {
+    "id": "file-0d3309b4f067cbf5",
+    "file_path": "archive/ChatExport_2026-09-16/images/back.png",
+    "size": 312,
+    "sha256": "929933067c1d751fed025884b85804818342f7560dd9a36d3a058c36a04676eb",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-1e9b23374a8c0bad",
+    "file_path": "archive/ChatExport_2026-09-16/images/[email removed]",
+    "size": 518,
+    "sha256": "961cfe303deab8f2939257d1b2bb7d0ec14e4f32c3b6a4a673a9fc55ad0053bb",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-393b9996e4c98241",
+    "file_path": "archive/ChatExport_2026-09-16/images/media_call.png",
+    "size": 417,
+    "sha256": "83014bb735c810fef0c0bfb6e9dad93e5575a06db20ea0e22e45ab810868a478",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-97059b23f47e2d2d",
+    "file_path": "archive/ChatExport_2026-09-16/images/[email removed]",
+    "size": 815,
+    "sha256": "6f23d3955f028037ac038d21adbec952537b1c7a4862dcc9478615d2977147b5",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-826c626e5a5ce50b",
+    "file_path": "archive/ChatExport_2026-09-16/images/media_contact.png",
+    "size": 323,
+    "sha256": "37462001aa3f02db4821532e4a62bdf5747987f9d0c479d3fddc7dc1e8e0c6a7",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-64c6e94a48f8fd1d",
+    "file_path": "archive/ChatExport_2026-09-16/images/[email removed]",
+    "size": 600,
+    "sha256": "ece7f7e5485a4b2bcf50ed758ec9748501b231b7558078d15c3e1f69b55d0cba",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-3065bb5bbe103238",
+    "file_path": "archive/ChatExport_2026-09-16/images/media_file.png",
+    "size": 236,
+    "sha256": "da791938383c24ccc7ac7bba638470e53753df256609e1bfa5c3c7bb4e241f6b",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-d47c3a4541e97df4",
+    "file_path": "archive/ChatExport_2026-09-16/images/[email removed]",
+    "size": 408,
+    "sha256": "2fc5b871d9e40d8dfbd2eacc27300c98bd7f3205d57b1b4cb59b86e6a176087e",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-9f2b40b81f1d7d50",
+    "file_path": "archive/ChatExport_2026-09-16/images/media_game.png",
+    "size": 271,
+    "sha256": "36354c347f0cad06dae45bc6451ea875714bcf33f7b3175394d16a64faa225c7",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-e68fd5c508c42fe5",
+    "file_path": "archive/ChatExport_2026-09-16/images/[email removed]",
+    "size": 510,
+    "sha256": "521b1874fd20c0c05619342d9fb11c0f24d9f7dbc6a6bbec28b5b09c17b8c12f",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-879dfcaea7e14aaa",
+    "file_path": "archive/ChatExport_2026-09-16/images/media_location.png",
+    "size": 480,
+    "sha256": "17ac2dfdbb87f3b53010eaad731bbdf8a619eabd6df87e33e4c06df06959bdc5",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-e4657eeb1ff9c970",
+    "file_path": "archive/ChatExport_2026-09-16/images/[email removed]",
+    "size": 991,
+    "sha256": "5d67983d47374ada4eb55697a8cc2abf93743b9f22866a6a6ba26f75f28b3582",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-68bcdeaec7d33be4",
+    "file_path": "archive/ChatExport_2026-09-16/images/media_music.png",
+    "size": 275,
+    "sha256": "6779336f0362a73da8b7ea33dce0e73fe83bce17597378445c117e07dd6020b3",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-538cf83115e29ce3",
+    "file_path": "archive/ChatExport_2026-09-16/images/[email removed]",
+    "size": 464,
+    "sha256": "f6b15ff44a9d49e72c1ca58ce297e514eb686a724c1792a13b877cc25647151a",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-8609774df8957800",
+    "file_path": "archive/ChatExport_2026-09-16/images/media_photo.png",
+    "size": 243,
+    "sha256": "68c3ad119b7f075c74fb1297ed6f81309dba5262274c98cc99da9c3a2d2accff",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-88c890e49ed7e131",
+    "file_path": "archive/ChatExport_2026-09-16/images/[email removed]",
+    "size": 458,
+    "sha256": "a995f172ad5eea6fcd6d4357eec864cead122642eeef3aa86b01a9026085bdb5",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-0aafb54a67b06000",
+    "file_path": "archive/ChatExport_2026-09-16/images/media_shop.png",
+    "size": 377,
+    "sha256": "950a9f3eb7e7ced0467702565e682cc8c72d9808c2a1b0c14fb585ba5e388d2f",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-36cd856c5f103ef3",
+    "file_path": "archive/ChatExport_2026-09-16/images/[email removed]",
+    "size": 790,
+    "sha256": "ddb88b92f1bd8f6b04f561ac52afd54ab5f4840381afd0809251d8d85b58a200",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-73afb22974093b76",
+    "file_path": "archive/ChatExport_2026-09-16/images/media_video.png",
+    "size": 235,
+    "sha256": "6053dad4203b7c611298c91f7db337b24dd9e520f2f139ed02d6141553de12c3",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-9ee482889cbfdc45",
+    "file_path": "archive/ChatExport_2026-09-16/images/[email removed]",
+    "size": 411,
+    "sha256": "1e67c221afa14b6ad28cb747fe919227f6b842059c65bc191269263afbc7c529",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-59d1dbcffc779845",
+    "file_path": "archive/ChatExport_2026-09-16/images/media_voice.png",
+    "size": 328,
+    "sha256": "531d7e79c2ff8260f99f48e197ed4ff105fb3d395bd6e4be22dca048f698df4b",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-759b76dbe8ea4bbe",
+    "file_path": "archive/ChatExport_2026-09-16/images/[email removed]",
+    "size": 660,
+    "sha256": "b37c63673d99d3a9167bcfe7045c27dfea29970d8aa5ce4f80083646dcb59ac6",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-c7c8f92b6756758d",
+    "file_path": "archive/ChatExport_2026-09-16/images/section_calls.png",
+    "size": 656,
+    "sha256": "b347d0bb33954aac124506d9ce9a0e556f235cb579ab853ebfd562617ce9a7c3",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-5a94294f4c32e184",
+    "file_path": "archive/ChatExport_2026-09-16/images/[email removed]",
+    "size": 1300,
+    "sha256": "decd35472a556fe7ec6a1f2dbe3a9442d125e0922854b785476227a376d02cf8",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-e8c9a3d15962636a",
+    "file_path": "archive/ChatExport_2026-09-16/images/section_chats.png",
+    "size": 283,
+    "sha256": "ca9e5266de6dc1c49dead1e1a1686f52c89b94c9904d0952fac607d1e3ed16b8",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-119c31574d53b9e4",
+    "file_path": "archive/ChatExport_2026-09-16/images/[email removed]",
+    "size": 454,
+    "sha256": "929d283917cce08418ca2ee8f6355ca431f4877aa8804bd3819676b8343fb2a9",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-9d0a2add406b4531",
+    "file_path": "archive/ChatExport_2026-09-16/images/section_contacts.png",
+    "size": 508,
+    "sha256": "47245024ccc91fad0f56df360abf699e84df2c45b3b866c3f25d0bae422752b8",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-4ec4ee64e8579d23",
+    "file_path": "archive/ChatExport_2026-09-16/images/[email removed]",
+    "size": 1023,
+    "sha256": "5281f4cf58c26149509e649e490a949941ac494b41e66dffc94e535cb2f57fc8",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-21a0a8a70052d022",
+    "file_path": "archive/ChatExport_2026-09-16/images/section_frequent.png",
+    "size": 771,
+    "sha256": "260eee3b8cfc4169a085e4a3e22e699ad30f24fe6a4854655a27da83f6580fd4",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-f7856b8740a9bcb2",
+    "file_path": "archive/ChatExport_2026-09-16/images/[email removed]",
+    "size": 1696,
+    "sha256": "dd4b5697712bbe2adce7cfc56ca8af2498c07d072b8b7d3fd01bbba30b316101",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-182fa94da089057e",
+    "file_path": "archive/ChatExport_2026-09-16/images/section_music.png",
+    "size": 446,
+    "sha256": "5006eab0a00fb29115c10ff2f5e3d06c1d498bcce18ab42c45b1de1467679a50",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-5117cb706ae61920",
+    "file_path": "archive/ChatExport_2026-09-16/images/[email removed]",
+    "size": 777,
+    "sha256": "73fae04760c427ef863edeb1bbe450e2c62a6b03e1ea4562236cb9e12fee13a1",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-e7595a7af3315232",
+    "file_path": "archive/ChatExport_2026-09-16/images/section_other.png",
+    "size": 155,
+    "sha256": "3b294027c2b4ac851bdef44311abff17273cae69b2b58aa663fa7ec1ff2d0f53",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-2819d242106b6215",
+    "file_path": "archive/ChatExport_2026-09-16/images/[email removed]",
+    "size": 269,
+    "sha256": "44c9a8fffb338c7d9b8d55a9af0d51dbe2ec0551d0f518126b8f9993034e4c61",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-ecbfb1b720ffa342",
+    "file_path": "archive/ChatExport_2026-09-16/images/section_photos.png",
+    "size": 415,
+    "sha256": "c71b8548036a5765377680d679a8f7d422dee5de03caf3580e1faca3ea9e06e5",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-c8d7e8ee6ef4f58f",
+    "file_path": "archive/ChatExport_2026-09-16/images/[email removed]",
+    "size": 750,
+    "sha256": "eea894213dc76077cffdd94155250b7a17562bffe0bfb9ee38651e325468ab33",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-9f75cdc371ece63e",
+    "file_path": "archive/ChatExport_2026-09-16/images/section_sessions.png",
+    "size": 134,
+    "sha256": "16aae7c60f3f52fad87c6483d3af62a01fca63457e06661aa460749e336781de",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-06c19812eb0863d3",
+    "file_path": "archive/ChatExport_2026-09-16/images/[email removed]",
+    "size": 216,
+    "sha256": "ed6f50d210cc6663b8ae3684537de8209dc4115918f7ab7eb6c9abb5d974438f",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-76a8a35ce9c17b27",
+    "file_path": "archive/ChatExport_2026-09-16/images/section_stories.png",
+    "size": 605,
+    "sha256": "eb121c176f732f5b41043291044fe594e1760c04d30d029da54af069fd0eef95",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-d5048a0698768b1e",
+    "file_path": "archive/ChatExport_2026-09-16/images/[email removed]",
+    "size": 1120,
+    "sha256": "6a17c90b58fd18511e4389422189f7ea860a35ce9bb84e0e4be21a2749718aff",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-22f173c27284395d",
+    "file_path": "archive/ChatExport_2026-09-16/images/section_web.png",
+    "size": 266,
+    "sha256": "7216e849566eecc3ba8830ee80b1a0bda9aa21bad1ab65b204e353d63dbdccd6",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-0bb5cbf8e08b6c6a",
+    "file_path": "archive/ChatExport_2026-09-16/images/[email removed]",
+    "size": 447,
+    "sha256": "8eb4e4f0952b60ad6305a46d5580ce4767522bc958cd5847eeec626f2d27d6ff",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-54728521937e00eb",
+    "file_path": "archive/ChatExport_2026-09-16/js/script.js",
+    "size": 7495,
+    "sha256": "93beb620191fcb10db4d129446970d710db08d8c2f1883f6282ead49753b1ce4",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-e83534df49dd3890",
+    "file_path": "archive/ChatExport_2026-09-16/messages.html",
+    "size": 429164,
+    "sha256": "f311019e1686395d5394a26b53c0a2c0fd76e243accc6b028e06ed90cef23365",
+    "status": "extracted",
+    "reason": "Parsed inert HTML; scripts never executed",
+    "message_ids": []
+  },
+  {
+    "id": "file-1dc36387bc422d42",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 108277,
+    "sha256": "6d4e8ea84ab8b609a9b7dcc35c196c07b4fe81f7a55ec5992bf8598cc6725687",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message225"
+    ]
+  },
+  {
+    "id": "file-479ae7bce6b6544d",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 30284,
+    "sha256": "9f382f55b05e117184f419889cd5d7d9e28ac28b7b7685d5957726f21b9d7d8f",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-e47ad310967fb097",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 408769,
+    "sha256": "f0e733725267f5f2ec3e28b05426d9d933c5604639db4bfd64f2473092258744",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message227"
+    ]
+  },
+  {
+    "id": "file-ae509a02b35f2725",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 34662,
+    "sha256": "137ff9af3acd1985364701284308c961a6723e9c4bb93d3fdb10cefdcab972db",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-7735a6d9bca48b40",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 360605,
+    "sha256": "2e99fe9dec0b870ecdeecc4b74f688d85724a9a12ac87e2b1e673179f7556af1",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message228"
+    ]
+  },
+  {
+    "id": "file-85fa04178800db45",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 32403,
+    "sha256": "32d0832cdd37f4fd4bb49ec6d7e12b307118a4bdd12cf3de12eb6216b707dda9",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-63ef77a189998423",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 70513,
+    "sha256": "7b29121454198b84e6403969b6bc1c195bd9351c3034a28e474be99e954c1867",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message229"
+    ]
+  },
+  {
+    "id": "file-b78dd7b03ef3625d",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 23188,
+    "sha256": "fcab279fbe4341c41f7c0af08799f17265f7e8d8c81c246ccd5f25a96ab3adf1",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-421a1b95b9bfaadd",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 224509,
+    "sha256": "f3d6155af41fad9b49c692d996116505839bd9fbc132194cb1fb54b83d5fe9f5",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message230"
+    ]
+  },
+  {
+    "id": "file-944077be52d48568",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 25260,
+    "sha256": "cda744dc94c72e676bc4531ca5fde0eebea97a43db29293d9e9efe65168805d3",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-dfd19d3bd4c1a696",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 56988,
+    "sha256": "a7fe13c79eafc2e84c08cb14784131d5f3ce4624b83fcf5ae0e3d25d1046784a",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message231"
+    ]
+  },
+  {
+    "id": "file-226a727ee9454000",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 22482,
+    "sha256": "545fdbc65244e08db9ce4bf1792b12ee4f6ec86cdb512fa0d42b64c90b018bcc",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-93dd1cc9b0bfbe07",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 52445,
+    "sha256": "fa56e32ef4e01f3bd9b3c135630673aa5aad6e60cdd568c0144f21b63da11ed3",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message232"
+    ]
+  },
+  {
+    "id": "file-74b782887f1ad923",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 20347,
+    "sha256": "1b664ffad55a6b45b3e763d9df39c3566752a42572c7b6c74257ec7f59f9173a",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-e9be7c1e84d51161",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 230275,
+    "sha256": "75dac214b91a584934004e9e5eeaad998eda1786a6d36e018eed8a4631fddf96",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message233"
+    ]
+  },
+  {
+    "id": "file-4dfd369002366002",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 20689,
+    "sha256": "eeb9a51552e352f0de5eeb3b23db900097b6e0776b9146ce2548e150479c2401",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-32c12ce9561e346a",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 59239,
+    "sha256": "d181cb6e5fddcb64c8c37968864c5cb929f55945f5300af897aabefbc2b4ea28",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message234"
+    ]
+  },
+  {
+    "id": "file-01039e1363c36c7e",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 24589,
+    "sha256": "0c67cd1b62dc98222530dfc0bb289653b5c762cd0083c1ff1d1488f90c235c7b",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-7d68b7e50deb5ce9",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 248752,
+    "sha256": "772998c566e4f63ed3765181586b05b92cd3a4bd966ffd1b036809d37d7c0ea0",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message235"
+    ]
+  },
+  {
+    "id": "file-4ae62832a4d8e5c8",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 24175,
+    "sha256": "02d6a7da4f1c6680b83a9a29ae488089b423d204029127bfbd88ba4496abd5fe",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-8a613d922cdecf68",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 205740,
+    "sha256": "4bd30345b010ce803f5faf0e09fe709f6a2f5a090338aff5e61d75dea6172a76",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message15"
+    ]
+  },
+  {
+    "id": "file-3d66edbecab45dfe",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 44096,
+    "sha256": "f134787d654e84d6551ace2d0fb5a513ceece7f140af58bf869e66fc43806c38",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-276d959f43d41b4f",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 447971,
+    "sha256": "79797954fab8e3e79c233c4608f81f6ce43e9caa8cc96daf684768c95247de04",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message239"
+    ]
+  },
+  {
+    "id": "file-4fdcad8c600bdf11",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 24218,
+    "sha256": "fe185a95d5a3654df729998485c14012aba7c0b0743d3052734c0d5d1022c9e8",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-80d1a16587a69deb",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 555427,
+    "sha256": "6d09f7db9e2e7dd3c27bd27c9fb161fafdbbaaee1b281ce60ce1567cfff5f4f1",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message240"
+    ]
+  },
+  {
+    "id": "file-3d3e9410d9ae78a2",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 41112,
+    "sha256": "fe62d45181920c04013e1bf098717542161ce02039144b66d146b6a990369185",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-718bf5fba43d86ff",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 139985,
+    "sha256": "321889d2757f8a23af2f298dae4c70947a3017b19ef0e8e1c4ab18c954b1b37e",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message243"
+    ]
+  },
+  {
+    "id": "file-c1e4d8a672543e38",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 43004,
+    "sha256": "d36df8baf35cce432df419a1f6e92b95507323fe2c5923667ae022c9becb3f6a",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-d7ba7f9dd7c36ef2",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 112542,
+    "sha256": "285ccdf43c71088b22f124bdb2ed58828e9d4eceab598309994f1c48c6cc2c38",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message277"
+    ]
+  },
+  {
+    "id": "file-4b22e4772b3c41ad",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 25654,
+    "sha256": "dabee357b74f5de2f7522c909dc66a85ba9dd8ed2559a09690ce6b13297cb701",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-1fab373a61630090",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 84281,
+    "sha256": "a48c75fa330335c798ea01731746b7067c3b35c0f6cee6f38222ec855806cb5a",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message278"
+    ]
+  },
+  {
+    "id": "file-5873b4c3fde90942",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 16206,
+    "sha256": "a0fa30438a3ed7ef629c38f3e950df70e8441cae9c4d74dbfa201c845dcfc341",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-83dc5b12286df129",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 135869,
+    "sha256": "2a0dc78920e31c2af3e9072565dbd306bba8ef279b1e261ce3919e5add133d7a",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message279"
+    ]
+  },
+  {
+    "id": "file-2a1c717c393ddd6e",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 28166,
+    "sha256": "fedbce28ec3f40c0b38b9d682bf1001129c0d60073e73caedfc5f320656c461d",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-1657aeb8fc04029f",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 90965,
+    "sha256": "b4fc4d94a726b5726939c346bc17f123567d929ebf3477bc320700254a566b2e",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message280"
+    ]
+  },
+  {
+    "id": "file-6b0911c4ed66336d",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 15671,
+    "sha256": "85d3ae5c69b7b95dae3cd7312b10de2e8d459edd191b1bf1820c467586176696",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-7466cff9cfc6e4cb",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 111637,
+    "sha256": "9937c9cc6d34d2f794cd5f2b99463ddb2867fbb9985fecd78947cc398c273b7b",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message281"
+    ]
+  },
+  {
+    "id": "file-2827e04ab8a5a261",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 21869,
+    "sha256": "f2d66b00594d45f7720b941a62e08cbc1c849a4a659016381409570de7541dac",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-961cc3d28cd6eede",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 116450,
+    "sha256": "e15f793c399325ee326bd4737932bdfb86cc1dc322990e0028e4b010a9a8d708",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message282"
+    ]
+  },
+  {
+    "id": "file-76f8ee96d829ab7f",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 20326,
+    "sha256": "5ee25b4e81db7988cd9db3c193846be32b08bfe41c36bf5720aead5660c3b4e9",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-76184da4830f6fee",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 146643,
+    "sha256": "a53be7c43612c5cbedefdbf5633a537734acbee4a609b13518ce7275b544cb53",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message283"
+    ]
+  },
+  {
+    "id": "file-b171433e6f906807",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 27691,
+    "sha256": "1bc47c74bab679b644fcb08187eba9c0d272e89925d80c8a5ab5fd6b1dfd9173",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-dd0879b4264de39c",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 255377,
+    "sha256": "c00754678504722071b79d88ed7d025cd5c31c9635dd9e8313f6354b07511cf1",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message16"
+    ]
+  },
+  {
+    "id": "file-3b2366c55db418a7",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 51790,
+    "sha256": "425b27ac57e49208fbc04185b379ddb014c14e9becd7dc49d1f84e56492dada4",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-cbd1efb7f5232a93",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 129275,
+    "sha256": "55081ce939ceb85d8bc791c2216486547a62b61a37dde465a613e6be9b52cc8c",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message284"
+    ]
+  },
+  {
+    "id": "file-23355ec9277ad337",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 26610,
+    "sha256": "8a48c20da90646ee189a4fa9250b5725c40294fac387e2d1afc4fc83095c298f",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-88cf580b7e682e0a",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 134171,
+    "sha256": "433563d66331e987b6fda812db818ee4bb70558604a8b750f415d43e9178ed9b",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message285"
+    ]
+  },
+  {
+    "id": "file-1b3bdd9a6da4abf6",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 31780,
+    "sha256": "0d889a8bb92a624956c17aa640955b570860fe240ad06f179364ef24e6447372",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-194583295cfec7d7",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 113925,
+    "sha256": "153ace6a76a8f37dc81f221b3706d80d698d833e405869c6997304d71a863070",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message286"
+    ]
+  },
+  {
+    "id": "file-e4ec9ea6d3dc60c3",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 24912,
+    "sha256": "d0080376b70b30f0fddcdabd27406aca09c5ec41c01fa8baca07d869e67e237f",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-24514be7e52eaefd",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 151098,
+    "sha256": "08971d7a20115d4b9beb378734e8a51e614b29b78667f4f01eda519b2fe0163c",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message308"
+    ]
+  },
+  {
+    "id": "file-60373dd070eb9fa0",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 30452,
+    "sha256": "70a7b9dd204c97721a0c9cd0234becc0cdecbc946de5053a45938c66b089d72b",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-6c8712c33b029815",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 175201,
+    "sha256": "4131faab8550c89e468f6085d0ecbae73b12505642dd25746861cef5018bd478",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message311"
+    ]
+  },
+  {
+    "id": "file-d269a3f284d56db3",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 31307,
+    "sha256": "0ff6f571c13c9acefe916b5e925732645a50e834a5f2c61ae6ace52415f86155",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-e571e79cd50034e1",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 171353,
+    "sha256": "a156a22c8bb98a53f7af096a91d8bbf9a283a3da2977b2828054032fc721874b",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message314"
+    ]
+  },
+  {
+    "id": "file-7b02d9ab15ffd397",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 36637,
+    "sha256": "95d2150afbfa6290f065492828ce34cddc6e1ede25b4f1311a7951aa38063f29",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-25c7be45c594cc81",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 119556,
+    "sha256": "497d06cdec853f5650732fb09c7818b00be89d27997412e67a385560e1385c08",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message315"
+    ]
+  },
+  {
+    "id": "file-4151004bc3eb6c1b",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 43077,
+    "sha256": "f0e04d9c10560f0159aca2c8559e706b3c1dfa07429a6e6576632e1bb01e4f8d",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-21e5f5900d100490",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 124543,
+    "sha256": "5fa25a70307e58df75749c248b5077dca42bef13c57d60b42f4a449a2b879746",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message316"
+    ]
+  },
+  {
+    "id": "file-a5fb60188b5ee083",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 43404,
+    "sha256": "4eadcecd21eac7c45096d5aa42b38e684cd44708a66e28f7df1933fcd7ebfe4d",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-18cf319c05d705fc",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 145954,
+    "sha256": "e63bdffff98d8f0458f346eca1dffee4d9cd38367fde2ecd5755a47e1cfab36c",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message317"
+    ]
+  },
+  {
+    "id": "file-3f868c9398025753",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 44179,
+    "sha256": "54e1f7bdc10f62174bb4dc8fefd5002d292f9283674f72d317bd8d8badf3a83d",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-4d8084c1f481703c",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 143711,
+    "sha256": "81613b09c04a44bcd007534d7b33f49ae4d941fc5f6c1fb223f5688f6e7fac1d",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message318"
+    ]
+  },
+  {
+    "id": "file-fd27ba18cdb7c3b6",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 44958,
+    "sha256": "fdbb162de29befd2cba3e575605ac22f56a9863b621642795245dd2f63717ce4",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-c3c914ddd71b667e",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 172063,
+    "sha256": "a586ab373921cc02fcb9e64dae41a8e5dcb082d4339e7a7530fcb2b87ae27032",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message17"
+    ]
+  },
+  {
+    "id": "file-c2d65b3d6acab3f7",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 30024,
+    "sha256": "9f7badc9db0c24b80f4f9a489c65b05e9b79cb17a3b97b8443dfa211f18f59f3",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-3a6af710a748305b",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 117367,
+    "sha256": "5966f0936b97a52cfb8b8c843b53ca5426f43a5a1b8986c42002d18898e70289",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message319"
+    ]
+  },
+  {
+    "id": "file-59cd77bfe04be565",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 40118,
+    "sha256": "cf2664a474b51d493d5a013ddb61e46f4153af0136c43b94db9d0fbd5e4835fc",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-af1cc67c21e92ec8",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 190803,
+    "sha256": "73f1e1e9026058e09e82f7f5346e176f5801c5459ef66f64e0738424977a6be0",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message323"
+    ]
+  },
+  {
+    "id": "file-3a7626cfae0c6cb5",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 40972,
+    "sha256": "72adef539ffa7a6962127422bdc5c8a3a03b7ae39175cdc5bcc7be0496b02dc7",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-e9157f1f725dab5c",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 93916,
+    "sha256": "05cfb71602c250605889273375a15b2ad67869a0f33d2721ee8b344fd8488934",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message324"
+    ]
+  },
+  {
+    "id": "file-81d458178834dbc6",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 28113,
+    "sha256": "380e35080c13892779fb0e610eb6b6041134c4c7911578f4984b5dfb49e2654b",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-5e8e19d968bd1cf2",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 160769,
+    "sha256": "7ddc31dee7625d7790203f14c8384680dc47f91cb6c454a34a3ea8aba30bc54d",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message331"
+    ]
+  },
+  {
+    "id": "file-14936b1a61742587",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 42780,
+    "sha256": "f961a10aadb7ca87cefa9d90c6c9a18021e94ec413726d6d608c17201c9160eb",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-fcd136a376d67754",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 186220,
+    "sha256": "0696900f896079365f1f0b13992d12b6d55f8fff8b62c8eee557a39ecd5fdc87",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message336"
+    ]
+  },
+  {
+    "id": "file-630546749772c17b",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 54214,
+    "sha256": "16a2d51461495433d35b291c5867d8410770f57cfffb2cf0ca4441d4e91f8888",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-1897709afb27869a",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 135362,
+    "sha256": "61d88aa4d02be9e0c025a39b7b503699008a5ac0e16d2b2aa7204ab22305c034",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message339"
+    ]
+  },
+  {
+    "id": "file-a8beab06813c3b78",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 37534,
+    "sha256": "c183fbf475fb7bba194dd750262ba9ad6e42d9636f0ce8b35b2a4d9312b37df6",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-f59e14a216e147ed",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 175259,
+    "sha256": "93954e53aee54ab8202345c8ae57ee64be384a72d4640d580bf5eefe00a787af",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message345"
+    ]
+  },
+  {
+    "id": "file-2e8ad1b775ca837f",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 44382,
+    "sha256": "8ced0a86d80733cafb695336ff9ab6ab40781ec9b616231faebec42e9a869e5c",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-b31e3c5aa4fed494",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 95911,
+    "sha256": "8984d10c41e37f7ed4bed329a5b11b038088030a526387398f6e95c323cc95ee",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message346"
+    ]
+  },
+  {
+    "id": "file-877f71e60a9231db",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 27736,
+    "sha256": "7cb7931f230f4d446c02ffdc9413a46a005b62fe650f47e09f106b8ad418b8b3",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-86f873cab0951101",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 134255,
+    "sha256": "1d9275f9187ec67533d5f213884f213e31f3fe0ceae2f7d267adcaf1a7e172d5",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message347"
+    ]
+  },
+  {
+    "id": "file-d89fd51ae8502c64",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 40007,
+    "sha256": "fe410de3bd54684d3bba25ca242052f8f3f48fbcd0d8f8b6836640b24bae0703",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-7b84f4a9b8b0ca94",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 190828,
+    "sha256": "66fe5d6cd83fe1022214f6065450ae101e6fbc967f46a2545865dcf064cd404c",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message351"
+    ]
+  },
+  {
+    "id": "file-d75dd6417de11fe2",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 53169,
+    "sha256": "63a4f2b60955140a5b24bc2341f9f5866e03acaf7490674f127632174bd797be",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-65581cd81aea7a88",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 208682,
+    "sha256": "a25f4ac40be985b8583a35d158e8840fca6b88b84694af34956c33a8d9280e2d",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message18"
+    ]
+  },
+  {
+    "id": "file-a4bcdae9fb234b18",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 43918,
+    "sha256": "66607794dd2aa99f333629d2a4364bad828e54d0655b8cea3c54eff85b8240b5",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-e4800d8949a5a823",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 81321,
+    "sha256": "50d13ae650b49e4f0d1cd9f6c6d6c1ab84b92a506a7ff0cfc6d54ced0b1abd19",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message352"
+    ]
+  },
+  {
+    "id": "file-54e420244927b982",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 19892,
+    "sha256": "eeeeb170d15841efd75803847d2cdbbc49b145a9f9ba096e8e3484a84401311f",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-c195a85790f7a251",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 208807,
+    "sha256": "8b11691b28c16295371f1fddfe0a7698173ec8affa655ecc3f3fdab0c0d9c8b4",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message356"
+    ]
+  },
+  {
+    "id": "file-5607b52b98f2dd8e",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 49471,
+    "sha256": "1e637a7dd4349de6a7b5b3edc70eadb4adf7febb6453adbf0cde0370cbae5c28",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-dd831be1697f51f5",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 279846,
+    "sha256": "6ba087bab47cb6ea839d7f0d188132e9792d37df0a2db43d53a318062ead52ea",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message19"
+    ]
+  },
+  {
+    "id": "file-cebc178a07509a6c",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 49631,
+    "sha256": "c068aa6d582dbbd64afd52b070cd49ee6ea376e891e2acfcf70d85785cdd48fd",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-01793f9fb76b66b9",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 78122,
+    "sha256": "d4516f1d70567fd6e3631cffcd5c6f22ba1465133169397f700d2396fca2e334",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message20"
+    ]
+  },
+  {
+    "id": "file-3416b7137e22e5c7",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 21476,
+    "sha256": "c7ddcb9dbb294797a1307b30d7178f0ffad2ea5d301b0c4d1720e5c2b401c631",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-4afd80e86e99c3e9",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 155086,
+    "sha256": "7d7b7750f0531274edfd0dc1fc68ceb1238bb5540798e171f713fa9941c457fb",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message21"
+    ]
+  },
+  {
+    "id": "file-0c76cc4d005b3106",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 30669,
+    "sha256": "ec27b65e0f7e95fc5104c408fdba67524eac60bb2c6ff14bd9d7028e57acfffc",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-e3fa0591d423a155",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 201259,
+    "sha256": "56a5d0e7f79c9d77d0b00080b5b2c04b718e9135b9f302d28857342b0e08cbaf",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message22"
+    ]
+  },
+  {
+    "id": "file-0d47e0d134bcc4d5",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 44487,
+    "sha256": "abcd5937d2300a008f2b4944a2f3e65d87ef8c4f56412faf1af9baa964db932c",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-f8420baee918f4fc",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 54947,
+    "sha256": "ac9ad853937bf5d5f897d577904860b39faf4536920c850705a3dc74c180c4f1",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message24"
+    ]
+  },
+  {
+    "id": "file-b88ca72f63f10ab5",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 25675,
+    "sha256": "71949fc6a0033509cd939338cee6a59afa2be8df3c4fab9255671529e8f77c89",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-3888985aade482d8",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 47401,
+    "sha256": "76089028cc52370d86b80f3f6a1ee07012685e9f2d4de9088a9639181f99bff7",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message25"
+    ]
+  },
+  {
+    "id": "file-8ee02b09a8baea69",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 21921,
+    "sha256": "936f433d84a023143f9f19e35b4bd059fda5c25d2d5d37d64ea970da4fd620e8",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-45aeaef865692b20",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 122953,
+    "sha256": "919c50db09d359c874d049fb183d9d896bb4c657171502956da61e0cc9b6eef6",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": []
+  },
+  {
+    "id": "file-ee80c98513b4fe18",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 4705,
+    "sha256": "61baf4b3eff4657d9b6a2fdf1f9e84ddf0cefdf8997ee6134c57da93beee0503",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-ef9388ecec53b507",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 61154,
+    "sha256": "afb70e4badb05e00e5d3f5c6243a405495cc48f33a5c120d8a6efa12839938fa",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message26"
+    ]
+  },
+  {
+    "id": "file-3c64efd1f42053ee",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 21101,
+    "sha256": "44077c358ee9d3f1d46e146a32ebacb3515def4133b2360e0ec98d96a576f3c3",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-cdc54502325c640d",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 61522,
+    "sha256": "f35e3166ce233c8d182719ea515459433e3974a8b5fe2a34f78c5458d0bdbae2",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message27"
+    ]
+  },
+  {
+    "id": "file-0a225076d922a9c2",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 23793,
+    "sha256": "f091941aead4cad502c3def2dc691f63d49ea8c3eda2b59e55dea4ce2dff034e",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-29efb12abb9502fa",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 79724,
+    "sha256": "8b4f540bab14a8bcca3d4df3137e61c8e5be8bba7eec31259c003e23b4a539f1",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message28"
+    ]
+  },
+  {
+    "id": "file-04bf99c23a55ebca",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 25379,
+    "sha256": "17d88c0886f5844d46e5154139065616857344e9431a80a54ef535d4454c2606",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-de5d8709a2687776",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 60445,
+    "sha256": "2b775addb800683c53bb9f34dabc2eb452ba2d09c9f40ba12e5dd6d6b3ee40ad",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message29"
+    ]
+  },
+  {
+    "id": "file-09e90e09f8832f76",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 25605,
+    "sha256": "0f24bbd3b9347ef126d53de838219339483e752f994b8196ec34ebe911f6ce51",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-3675e713b45a86ef",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 85869,
+    "sha256": "75e84071fd72cc1f1aaff060ccf524e48fc1ccb0667b4c2604ca33789e9b1bd8",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message30"
+    ]
+  },
+  {
+    "id": "file-58b19f4c8e93d1c4",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 30027,
+    "sha256": "60f40d4f6c78bc2c699bac6f11277ea3fce696c18958f4c88b3e8449024675ce",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-a8a94d30ed8da4c1",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 63625,
+    "sha256": "1fd8868a4c42f0b0f9175e1a58ed4a31bbdeb9b585c5870fbd1b01e3777064ad",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message31"
+    ]
+  },
+  {
+    "id": "file-10d60963484b926e",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 28077,
+    "sha256": "7b14c507e5adfaf8e0ead870d8fa1e286a4830baa6b691e9daa2487fcc30e632",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-a960dc8d86755934",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 72913,
+    "sha256": "81e03b58ea9b28d6a64ede5205275306faf76d96ff3cfb2dd958d50e0fb273c1",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message32"
+    ]
+  },
+  {
+    "id": "file-dc3bfc608cd4e228",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 25989,
+    "sha256": "b8d70101278d9ac21b3a90602c9cc9f29d1e9cf99831bf9c3783d4e7178f1a3c",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-d100886bc9c7dcc0",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 51497,
+    "sha256": "ff3c83daa1dc98556f059cb2dc8ecb6436b80f19977e3c5966c4e62933badcd6",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message33"
+    ]
+  },
+  {
+    "id": "file-e21fc5eda1647af9",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 21810,
+    "sha256": "ff0e379c0358cde873831c6bf4d2856e29f5ace950dd72690cb7ab8bce5f9fa1",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-36795432fb8020ad",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 70283,
+    "sha256": "f911ba99fd1dcfbeeb2f07bf02a4eabd1e57b7e3e48445fd1276e3acd06d69b3",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message34"
+    ]
+  },
+  {
+    "id": "file-9472acb8b77c90d2",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 30601,
+    "sha256": "42cfd8453a11a63d9519884cd78f6de6275a1c1102707ce133eb6b196bd782e6",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-80438b219b265a82",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 44526,
+    "sha256": "1e623d78ec94f692b11231a84367c787a9421dd124b5eed2050e43fd8c4e98df",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message35"
+    ]
+  },
+  {
+    "id": "file-3f82d4b1488aaeb1",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 20167,
+    "sha256": "7da263f6be42e96874bc1c01b6cbb880e773b1bcd8edd5c423dc0c4e77fffcad",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-fc454ff67539bb3f",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 212840,
+    "sha256": "c6c9b7786180f7ea656d1ab2b5faf6d831b7565840e710cc91145058ba077755",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message6"
+    ]
+  },
+  {
+    "id": "file-8e330ed286a1c1ca",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 50945,
+    "sha256": "cb57770cba8bbc817e3c89ebe02067f3d66c839da64f622153fa67fab6c3f517",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-58776eae0c8b8b10",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 234015,
+    "sha256": "04bac29f94167894049d9d4f0a285f16c44f6a0ff0f4be27d514bd894e55c234",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message53"
+    ]
+  },
+  {
+    "id": "file-9e927329d5478961",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 40067,
+    "sha256": "603e117f23e23e78ebd71e495fd0efcca8710b907cd67a38a384a781c2e3ac52",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-f0df8b2c475198e2",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 73741,
+    "sha256": "64729517233707eb3b0ea179c1a707f6f481a18935b38f985e5c8a6bc58a5789",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message84"
+    ]
+  },
+  {
+    "id": "file-c50aa720effe7c3f",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 23520,
+    "sha256": "0c40944144f04440aa1e7ae7b222c6c217ba89ef091a16674b5520929a7ff0d3",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-db5bb71e9fa9de4c",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 153121,
+    "sha256": "ac1a614e329f56898eb7983994d7dae2fde7e54b7fb20797e5504883ffca8f57",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message87"
+    ]
+  },
+  {
+    "id": "file-2336d5a15e961ac2",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 36627,
+    "sha256": "8bb4c35b1baf80746e5b15d05e4b40b05c74c46096a962f490ef5bcc03e1bd13",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-0ad25ae920dc4f7c",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 134215,
+    "sha256": "df8576f6e59061193bc1c80c9f7ef1bc70c44d4212e0f22ac33c6e54e0487b0e",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message88"
+    ]
+  },
+  {
+    "id": "file-1847cc5a63136746",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 33763,
+    "sha256": "5449b4210c208e0fc069b13f29beeb92185b4515b2715f2806019572282a3338",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-a503e5467564ab02",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 149588,
+    "sha256": "1ec9677a8d8a351195ca8ee6896197230b63147f70437cec4aa7d45a737e2b1a",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message89"
+    ]
+  },
+  {
+    "id": "file-fb06b8fa5069d603",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 37658,
+    "sha256": "b2055f60421b99e4b389c09c9031d96714285ae85f3c78905b3b608c6e593f7a",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-6b2c26d7b3520d3e",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 142762,
+    "sha256": "59abb2f257874f359d8d8d42789d4739a8dac0962342e325c460cabec8e52ed6",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message90"
+    ]
+  },
+  {
+    "id": "file-5ebbef628bbe0dea",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 32617,
+    "sha256": "cbc2767dff98c25e5a4b1b9b0b11e4912ec5e065ac65a46d4dbee5814fe9ddd4",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-bc9f92b374936f4c",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 168465,
+    "sha256": "fa9d562dd1763209c6e38fbe610b0282cea9b01b754cdad5f81813acafddad60",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message91"
+    ]
+  },
+  {
+    "id": "file-61277dd6c95652c5",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 39927,
+    "sha256": "a743a904e03c0b32c983df87f2dc26b5451d259b89cb5581e85f222c6b96aef0",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-10964d8097bfb8d4",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 111336,
+    "sha256": "5ff74edf319c488bccdb57fdfc641ec1e99b006f86c7be084af13802ccda1f9a",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message92"
+    ]
+  },
+  {
+    "id": "file-c2daffdcaaad9cb8",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 25929,
+    "sha256": "61d24b98836a9af4482a7f56643583ad474434938cf666f13b71c5d8648e651b",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-e70f099ea3ae1864",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 168439,
+    "sha256": "ab53e90f711ea343cf8e27739dd095b46ba7b408a06cf437fec9ff3299779301",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message93"
+    ]
+  },
+  {
+    "id": "file-ee9f966668b8e5c1",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 39978,
+    "sha256": "cfeb6ded10ed3b69533313d2e5d6db3e62db7404814c86c5cf48c96182b7858a",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-9c30a221b65cfe0b",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 197179,
+    "sha256": "fbf2546f683262b6ccd8a52182c3a96a4f92f6d5d896d329c4a2813a32732a70",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message94"
+    ]
+  },
+  {
+    "id": "file-95bf449dc444d840",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 43058,
+    "sha256": "953ca8ec73e2c1e4de5697123102ef1a86707a0cb7d9ac5da546cf5fcd68f3ac",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-d05955e63e84a3d3",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 182620,
+    "sha256": "9e78ee2a98b250ebcf450c65168224737d03f761e9b4f7990b62dfffdce84f19",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message7"
+    ]
+  },
+  {
+    "id": "file-07416c7f6cd46376",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 39547,
+    "sha256": "5827e9688ae3e3a6480f2ebf097a2938b7e4fb16852eb13699298d3d065b72c4",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-737105a0bb30f4be",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 173838,
+    "sha256": "0a7f808a15e05b86da27ce1dde20e05534eee14ce80a767426dfbad38bc4b8e6",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message95"
+    ]
+  },
+  {
+    "id": "file-b8be40a6eaf9221d",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 37325,
+    "sha256": "373e1c29c32587bb1f2dedc490b5f44cb976c6574bb10755f7cd2644f506412f",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-3721bcae09901b88",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 89401,
+    "sha256": "2aa2bc8374c6d84b896475cbce39bc866d1d607a76d5c017706274a50d0a370a",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message96"
+    ]
+  },
+  {
+    "id": "file-c1f7010ccb887ba2",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 20995,
+    "sha256": "cf84732cdf9a217acd7f51c31c7dc17fc61e814e134a670ee75d45827b2464d8",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-d73864dd2097020b",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 134975,
+    "sha256": "84d86a50c6cddda1b0747529961551fad6ea63d1a225e84934ee79522e325d91",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message97"
+    ]
+  },
+  {
+    "id": "file-e4346a91a488f5f4",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 40394,
+    "sha256": "2302d92435c89b8e99ffea632d04f42e6c418d078e78bfec7380034dfb3a36a5",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-b22ea395a9d7838d",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 139197,
+    "sha256": "ccd277ec2b3708e78b1825cb85bda227c1668de9f642b40f6577a798bc0a1b44",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message98"
+    ]
+  },
+  {
+    "id": "file-47f360fca37d49f9",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 32319,
+    "sha256": "a9c04b467d57631ffff8a7ed78a3f13789cda7168f7c8efdef7f37c697a769da",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-6a843ee027359222",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 274412,
+    "sha256": "3681358511bc40afce80748e732681c5b436321d4ccf983cf7951069fcdec07e",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message99"
+    ]
+  },
+  {
+    "id": "file-5c086e5e4c82003a",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 52544,
+    "sha256": "23e3e6690c3f7a94407cf2b4b06e64d5ccc24fd821f884e6e9b3be94cb440997",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-44976abe94846642",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 262916,
+    "sha256": "d1174a66dd76ed53b39bf470758886c8bf1ccf62241736dc326713a4c1b8b29c",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message100"
+    ]
+  },
+  {
+    "id": "file-ac38ca02321d9cb8",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 47171,
+    "sha256": "aa0acb3b9d135c089ec687b75a6598779a9be731bee1784cf35b0b17a8bd5cb3",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-17b42814f06d4756",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 155395,
+    "sha256": "820b820b8730f4f02f7d70c7164f92f5a9888336aac5004ec9cf30c0e45ec89f",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message101"
+    ]
+  },
+  {
+    "id": "file-dfd0c2248116d7fe",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 37125,
+    "sha256": "f1f77766119e9270a6656024d30db63cb63919694b72346d47e1c9258d88698a",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-6b8c28ef0adc7c66",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 101310,
+    "sha256": "4724000fdd9117764cabf83bc55a5954df537d309cdc27713822257a9f899cfa",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message102"
+    ]
+  },
+  {
+    "id": "file-1928cf727e9e4775",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 26677,
+    "sha256": "63e821b04ccec186c955664996cf4924e463c47c666553f7035c1b98b1e5a5a7",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-ede2c0e07c1cb8d9",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 150214,
+    "sha256": "8802e8ed35d30117a13752c1c8fdea6997ee4a754572f5d44b22b5a02d94192e",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message103"
+    ]
+  },
+  {
+    "id": "file-da55d9f0c5d06d65",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 40662,
+    "sha256": "db24b11c879527618b9bbac3415c00f9782cea52f18db409a8b97ef374b96b7c",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-5671ff3a96bd34a8",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 189915,
+    "sha256": "3d4d5107dcedab72ec9866c2822c3ddeb8539dcfa215ad4c10efc1c7622f1bc6",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message104"
+    ]
+  },
+  {
+    "id": "file-c8b470f491126b94",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 43244,
+    "sha256": "1aaded3cdf0c62bebf2c05f39fb66a2e314956f53935e5bae98a778bef010b20",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-73105b6b499a9241",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 240089,
+    "sha256": "8fc3b617eaa4c1a3352979dc8388af18bc80bdb06d3c9f1a180fa1acf5fcb97f",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message8"
+    ]
+  },
+  {
+    "id": "file-d67580a5997de7b1",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 52406,
+    "sha256": "894d55bf900449a89fb277c12a1bfd543578502bdfffc3fe9afaccc35d3ffe1c",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-6e83ec168bf2ce92",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 165052,
+    "sha256": "a4cb539971afd72c9886628a8890a7dcd92cbe014a6e7a16f7457620eff3f334",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message105"
+    ]
+  },
+  {
+    "id": "file-28ffe05a1f53a426",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 46404,
+    "sha256": "fbbe3c6de8404bc4a7d3409473fba331b6074aa565a976669d821ce76c89b1e9",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-8af5e13902bd74a5",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 211128,
+    "sha256": "e6693b150691201cbfc58d9e5b469a2a855af7abfe31a3b2c901241c8eef4bd9",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message108"
+    ]
+  },
+  {
+    "id": "file-06b1dd8de5bc97fd",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 45424,
+    "sha256": "bd5190a66688168aa0cba9bb532b4edcbd4024280fa3f8ddf2449ef46b866b39",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-81d6d8b41fb9b130",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 138378,
+    "sha256": "55cd1ed9d2803156763166410248813edde1c5c7c531e407d6abf5408bbf289a",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message110"
+    ]
+  },
+  {
+    "id": "file-d5da3f7a28f0d3b4",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 30747,
+    "sha256": "ee4525d1cb2da209cedac690c60413520b5a12793847f647e2e1f84d51df2b50",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-4d49d48e6cd67c76",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 77653,
+    "sha256": "6d4a2fd66cbf890319b7eb0dd85e3993885759838e09876c2f708692dde48cec",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message111"
+    ]
+  },
+  {
+    "id": "file-4ac18ebc7a6bc10f",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 20036,
+    "sha256": "7099aa7f3e6169f428b56c001c2f2e20d88a26614ed6fc1c44580fdbdd485a41",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-a74e2f9bf052b2b4",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 140732,
+    "sha256": "85051ebf51367c2da210f1edfa6a542526743e2cd64cce790ecca9706c07745f",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": []
+  },
+  {
+    "id": "file-bb7430d83c617b7d",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 4197,
+    "sha256": "832de3d99fce8354dded8dba8924569d1f4e8f3584555223c29bf8cd924855c3",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-a875dcf9662ce47e",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 94822,
+    "sha256": "f9e24982a17150b67ff6535efb90e112817a09ccd22b3a7de9224c76c9665f8a",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message117"
+    ]
+  },
+  {
+    "id": "file-65814ce1582223f6",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 44486,
+    "sha256": "84a96e2c8fa0875b1bed5260e1fdea3998522736a99dafab6c0216cec513e31c",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-cccf924b37611324",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 59697,
+    "sha256": "c4db7e11e1cda1602445ed32384ee02e38a7c525730d6c45cc77005c063ec025",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message119"
+    ]
+  },
+  {
+    "id": "file-d9b17c2490da3856",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 23159,
+    "sha256": "61b317ef861bd717bab0a45d3da8ef74e3867fb34dda91cb81bcb418373951ee",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-dd0a95dfc187754a",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 98045,
+    "sha256": "36ffa4492bef1645cfed4daadada5d86e0a81ec48cc59d883b6a2ef5376abd29",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message121"
+    ]
+  },
+  {
+    "id": "file-1be05c61d655302c",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 25953,
+    "sha256": "ce50ab85ecc9748ff9ef97dad666d8537e49ca76ff4e72e1483c960340ae8ee7",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-ee4ba962f0fb46d9",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 88741,
+    "sha256": "25ea656f3878459c9d6edac30592d8632929a57f557ac12dc5d28f8d4893cbdf",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message122"
+    ]
+  },
+  {
+    "id": "file-2412d0f4c81687b7",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 24184,
+    "sha256": "3bc4ad7fd6544fa75c715b203bbbc1dee23f7637aea4da30ec6bfc0a5e392114",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-1137033916594104",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 97991,
+    "sha256": "c53701036ad80ef61bb7aba2fa704104c18dc44d629fb93aad1aaca607aa0e28",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message126"
+    ]
+  },
+  {
+    "id": "file-723214da0e277e27",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 26370,
+    "sha256": "b41bd3b0f1d754db87557079073e1a26a982bcdb2f3b1aeb58cf5dd4fe6dba14",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-ccfc783cce5be54a",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 149289,
+    "sha256": "f4223e6ba0b399bc6296e14103af0eb9d3a4098856961d12f08eb432a6c129ef",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message9"
+    ]
+  },
+  {
+    "id": "file-05847cb645fef06f",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 34078,
+    "sha256": "32e97a4f07a2089601e5500ad8876ba09ea2795c913bad0d3b7483f72788d430",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-978d0c583f0d8bf7",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 76530,
+    "sha256": "abafbf3f6327c3154ffc95a4f7ba25ead3da95eb4c444e4f8a7debc788bed284",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message127"
+    ]
+  },
+  {
+    "id": "file-eb54f295498f9d31",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 24158,
+    "sha256": "bacea68f3e22136dc9af18c9b24c279bdf18ba774c3ecd9b1eca08bb51b35996",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-a288ae3a44cc71fd",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 290814,
+    "sha256": "b3d7c0781159f3a3f20becd7147623f0e20c2b2657c3e2a78dcd29c5ce7ff6ca",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message136"
+    ]
+  },
+  {
+    "id": "file-3802b7699c7da385",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 47680,
+    "sha256": "d812ea818dad9e6d4cd2e85bcf820efe1570fb055ec12a573ff055963d89bde8",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-b51b56b9920cdabb",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 315995,
+    "sha256": "62311fd25a4a66dd4854c50d477c74b1a6232f5dcb23129ab038beaf92539615",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message137"
+    ]
+  },
+  {
+    "id": "file-141e9990a849e551",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 48404,
+    "sha256": "2946f7240741f0e2de92c557755e0b57d9a7b1842798dc7d736936323689c4cd",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-55d7c1ba5827cc21",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 189925,
+    "sha256": "f12293664a266ebf70ecc232fa35e10f202ba0bef653dd4b0be1fd1a9f07db9c",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message138"
+    ]
+  },
+  {
+    "id": "file-6edf248813c12e92",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 36650,
+    "sha256": "60dacc344d47b05a02fe34c105f32a0b071aa21e38e741516bcb293d5712c469",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-b0a71428d941944d",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 54934,
+    "sha256": "9a0af2a0c53b3401dcaf1df0f6b6dfbff1ba78f9b10320d9e18b4136c79a7bb9",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message141"
+    ]
+  },
+  {
+    "id": "file-b19f6a0b1dc324d7",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 25928,
+    "sha256": "00e14f386a22fc7979969d7e16d4b05dfc6f353928c9d8b8b76d10ec7e464ea0",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-b0cc207fc238c079",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 44278,
+    "sha256": "9d647ed68afda13aabb55972c28586e2f5a430244a7cbe4d2c6b445375432c7d",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message142"
+    ]
+  },
+  {
+    "id": "file-a1458a6be39c4f67",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 19780,
+    "sha256": "586ca70120d5c7677eb8f9f1ea40f147b00e31d919d1bd7fd2b1ecdff07943bc",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-5eb66a8cd0409fd8",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 36729,
+    "sha256": "e129cff08855264430e4f9b8fc0c4472b7c79c1ee0f49f65a3e65d3adfd733c6",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message143"
+    ]
+  },
+  {
+    "id": "file-d0eb9edf57118f56",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 22504,
+    "sha256": "e8f495ae4bdb28630fbb5e121adb75e097828136646b3e540363bfec7e95ac15",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-c6bc6e48cdbf6b5a",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 144455,
+    "sha256": "f95bfccd8e67c12f36c6d40f25e16e84f6bcd6f2c97ef495121437eaeca2aa5b",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message146"
+    ]
+  },
+  {
+    "id": "file-11668538522cd4a2",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 37051,
+    "sha256": "13e1750cb600c512c161444899306130fb33cf7f2c34e3d37252b2e3a663c676",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-a44eb662aa10d828",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 143817,
+    "sha256": "2b8200cc2975cc44ab4bdbde03a7e4141d0fb98a302e84cf2ffe1b243dc10890",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message149"
+    ]
+  },
+  {
+    "id": "file-ea09fbcea130800d",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 31400,
+    "sha256": "d67348c929dafce652cfb9c9975652adf6518502a9e02b4c64c8aed2f4f12806",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-587ffdfad3488481",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 164523,
+    "sha256": "af14a8437f6c4bb9e1ee16431087ac0463a8de30c2555cbd39dbcef27c91ccf3",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message152"
+    ]
+  },
+  {
+    "id": "file-eda5d0f8e5205105",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 30861,
+    "sha256": "fe52eb1fb80f1c9d6782d6ebcb67e41d0be5ac64ee97fdd8d37e15d51e2df530",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-6cb1bd1331b95399",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 103823,
+    "sha256": "c16babd4ddf9ff2ec9242178361ba36f9d4428109d38b8be0b1ddb199b015cbe",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message10"
+    ]
+  },
+  {
+    "id": "file-2bc308693ec71ec2",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 27995,
+    "sha256": "596756bdb28bd3af57fb928acbdec7b74c3dd97d4de88e6edad63e66511f3eb8",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-7f509bf6979de7de",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 83119,
+    "sha256": "3995e71f110936ae68a04c3f7a30c2da059b02983bfd0df24113bd00b4f19898",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message157"
+    ]
+  },
+  {
+    "id": "file-1b93b8999447d7d0",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 21072,
+    "sha256": "0819062a1ec8d9a359c1b5339bff48a46ef84701260eee717a11d551ada7c192",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-b02ec290fa8f0214",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 96219,
+    "sha256": "61c63f9c23092823d790f1ff91f0a91f1c304baec2374bc2a91e2a307314545c",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message158"
+    ]
+  },
+  {
+    "id": "file-a390fa22f7a7ab41",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 31566,
+    "sha256": "84e620889e9505d235bf5edf73f77133a43799c5afa5879278f2eb88cc7d2a9a",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-51771960b5b42f21",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 172545,
+    "sha256": "d4874b5247597cd800d202ca58a2f9542c758fff378808668a2866798a7db835",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message164"
+    ]
+  },
+  {
+    "id": "file-7f7f7102d402c0d9",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 48759,
+    "sha256": "e4bfa966b72fcebc6110c8d041739f6af65064a4d75a30283a212e0cf567b2d9",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-baa805d0a3f877b2",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 252990,
+    "sha256": "0ee1434c6e496b6918ff754d3ae33ddf9ce23451ed63ea64d3f02c44171bcf5a",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message166"
+    ]
+  },
+  {
+    "id": "file-41faf25c8dbb76e2",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 58896,
+    "sha256": "e135c0ca44c5a9a87b23f48bbd15fe6054f62c34fa7db2b541ebe84dfa005b07",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-775536a7c28ba5f4",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 220765,
+    "sha256": "f588a006ff8e3de579d69d8283819d88649aef5da672e9dcef5a0dc9f998da1c",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message167"
+    ]
+  },
+  {
+    "id": "file-ae047220c1c434d2",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 47456,
+    "sha256": "01bfadeae6498b22c28121ba7c081c31b650a1b6b78a01beb68039955c84b038",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-a074fc64c21468ba",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 179766,
+    "sha256": "e83cb991a157a041bd741b7e81581ff5eddd68ecb825ec02738bf83c201c484f",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message168"
+    ]
+  },
+  {
+    "id": "file-6548635e2fa21bc7",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 42310,
+    "sha256": "232fcab31bb37cec5ad4e4a076faa94b05a9d2d0c6f485db6df18ba53c4bd7c6",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-75a0bf25390ffe4c",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 204169,
+    "sha256": "79e5e1e6785748725b2ae44e3dc62d065abc21c71cfc72b63a31d988120c34e2",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message169"
+    ]
+  },
+  {
+    "id": "file-d3239eaddb75bf09",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 46036,
+    "sha256": "026c4891b874970b2e77c4e4c9ce2edca46e1333ba240885eb225d852d6f6fca",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-780a0b44ac926855",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 94233,
+    "sha256": "04a4e58fd4ce665d23f2d1f7d050cdee40417ab40fe59568cba08d3e7447343a",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message170"
+    ]
+  },
+  {
+    "id": "file-1d20b832cffb6354",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 35108,
+    "sha256": "f02d80e7f686995d2be33df2a48429aa9692b2eb02e107a0300766b1834a5be2",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-2a597f046a9468bf",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 210972,
+    "sha256": "08754a0a66b7d5abf508e9660a4c339595d68e2f12f78113e386a7bfa6146648",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message171"
+    ]
+  },
+  {
+    "id": "file-e16a5139b6fdbfa9",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 59498,
+    "sha256": "9005443efd26665db7c1cdd057a986e42ad73484c052de173ef07e2498492b9c",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-406d361438818093",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 156031,
+    "sha256": "ca31554b6d005ff3e9ee80c4e6cd2a66353d50e29883204bc163c7f9ec430816",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message172"
+    ]
+  },
+  {
+    "id": "file-afd4810a97554f86",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 47874,
+    "sha256": "d01cd59ad17ea8c2f59e6f67ba2c6d7a47cc79ae9b4b6c67e20684ae35ac3a1b",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-335555b426dca4cf",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 195649,
+    "sha256": "66e3c9d14b10a72c3cca520ea3222a447db4d2c795d781ef61c46b11b98568bc",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message12"
+    ]
+  },
+  {
+    "id": "file-0f024c98bb1a6384",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 41784,
+    "sha256": "e0fe4c06fff64488a1bc9fe95b52c4fe1c53789a78b249963872eeda8069deb8",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-ccf3c2a2d966dc33",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 227688,
+    "sha256": "68c16c5fb2ea273129096fd68478f082a0f48da87e2fc54c3adfd4cdfe39bbd4",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message173"
+    ]
+  },
+  {
+    "id": "file-2766aa586f035c10",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 52137,
+    "sha256": "83ab4e4f2dcddd4da77d7f8fc52605d5fa10efc2087fb4a9b813bc0c35dc783c",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-802fe965b2746f85",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 200975,
+    "sha256": "eb6772405a1119b98466d3c364d9c3f0c7fbc49324daebb6a1d93801018679f7",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message175"
+    ]
+  },
+  {
+    "id": "file-33dc605856c191e4",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 51089,
+    "sha256": "38680b7b5e9b380281270350e1f5f68d1555eb1d045bf637111230ad77bcd4f0",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-881cf8bdfb4983a3",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 162925,
+    "sha256": "b4b5abb9980b6d5cd8db90e17bee17137c16323867f7e567735826286b362b12",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message179"
+    ]
+  },
+  {
+    "id": "file-2b0123ae41f12dd9",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 41147,
+    "sha256": "c9ef805435b0c6d53117e654b76d985a2bb42428ca2246f7f068a892cd5aa04d",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-f6e88bb71d4c344c",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 118759,
+    "sha256": "8566ef2052e0089a8caee3802a2cf884b1d1d2f17e1f1e28bd475444e47bdb33",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message185"
+    ]
+  },
+  {
+    "id": "file-610e8491ef2a63f6",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 26641,
+    "sha256": "9393bb1639223ce4a2bd557d4c554fc58de659615dec8989f39e2f4a7a78204d",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-4cd6a7889bd82c85",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 98286,
+    "sha256": "06b0a10ac2d2143cba7d54197c48d6fdf12d2391ea9d52d40400d760979906df",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message186"
+    ]
+  },
+  {
+    "id": "file-8abb7899fc4bc429",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 25348,
+    "sha256": "50817539f6b90018ea0072c7428d3a3475c25e945b403659b583afac9f6f689a",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-0616d06f0b04af91",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 94821,
+    "sha256": "ec61aee7619d2e8f19848945114b7e2787cf8132b7336b95512210ffc8cf3d24",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message190"
+    ]
+  },
+  {
+    "id": "file-e4f6b4ad33fefdf0",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 30359,
+    "sha256": "6ab261b1b8341fa49744eddca1e6636f24bd4b4a5631a2c182ad7050ff7b5b0a",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-f502ff20acbd53bc",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 215436,
+    "sha256": "8dae503cb1a0358cc28f8cd003aa76943ed80b23b4180171186466b21c900cd7",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message199"
+    ]
+  },
+  {
+    "id": "file-d9cff4afb83734a5",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 29799,
+    "sha256": "1c77dcec379c5d003b1c6eca7dcf31441622e6ec03091dc64e06454d2328d8c5",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-5d2d9c86c3727d7f",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 131949,
+    "sha256": "62fec21f24ec34084b69f668c6f6fbdee8f42bb790f7f810ca55d53b477933a0",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message200"
+    ]
+  },
+  {
+    "id": "file-867d3f7f41e4f3b2",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 37671,
+    "sha256": "9700fc635cca12aba92f32156790c119ef8de3742f64e49fc6a76b150785b4ff",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-9f5fd2965bd3a6ae",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 243754,
+    "sha256": "58ccc78db61a0c4a6eaa7ad16b6054cfe9793ff90083d8c10bbec53e6fd6f99c",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message201"
+    ]
+  },
+  {
+    "id": "file-041f22130532444d",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 26335,
+    "sha256": "03508f57ae805d649054e81096b000b98f0c0a29ad7fd256a778473dcff9f363",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-2d7326fc787fc4b4",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 111477,
+    "sha256": "7352bf6a07771ad6ddc6348b8943c82092e3722894f7ad0c918a659d66e13645",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message203"
+    ]
+  },
+  {
+    "id": "file-ad829493df93c6af",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 17589,
+    "sha256": "45cb99b3692cdd98c8383b6b161619d818b286962a08f9816f437aafe93c4958",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-c41f426cdd8b8662",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 251148,
+    "sha256": "27ecbdeded28a4d46b9a66898265e036e6740b5ddc3d97b31dba2b1d1c17bc29",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message13"
+    ]
+  },
+  {
+    "id": "file-21c93885a32c56fb",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 55629,
+    "sha256": "90d306d5eeb99a339f887383c1cfe2c4c08ea7e1e53f87f4d91cfdde6cd5d00d",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-780314c85062aee0",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 464782,
+    "sha256": "1c0ff301f78e18758218ade5210da17230327893f78c74f2668b218a766b57ab",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message204"
+    ]
+  },
+  {
+    "id": "file-8972f71ec0106184",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 31608,
+    "sha256": "42a8fd9622cb253b7169b395b30114df9716d0908117ea974ec2a209dabcc9b9",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-c1606f1f9f26d134",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 151484,
+    "sha256": "53800149edebfa1a730139a8eca07bca63bbad363247d681c8b3fc57f27ba38d",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message206"
+    ]
+  },
+  {
+    "id": "file-1b79ac9fc71e6911",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 14370,
+    "sha256": "0eda5ff31f7cc82547aa91e592d8d2ce2be2bfb349c6c418ac2815daaeaccf33",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-f0708767dbba946c",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 15202,
+    "sha256": "f5bd60f59e310c7477c6f9aaf9e3af4f234bd7854d03d0dce4d2b7df6d44b549",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message207"
+    ]
+  },
+  {
+    "id": "file-4ee6a8fe981010e8",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 17186,
+    "sha256": "fd211d2a8768e115a6b3a2ff4de7b2835466fba66d11a7ab249329004f668f4d",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-65042c03f0c2ee2e",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 65263,
+    "sha256": "41fd2d23c578a5281e0bd48ad8074a205fd35bbad1c64f1b981ef2f44a002d22",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message208"
+    ]
+  },
+  {
+    "id": "file-97e8e08537f8f15b",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 36017,
+    "sha256": "1c7d5c4b0c7de4161a8188ba36ae87a58b1aba91e6413e01413e7912bf5008aa",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-191fddbf9e51bf0f",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 169772,
+    "sha256": "a3dac98e06a593e4083d5b3589da4780876369561d6aced145aac885c965ce74",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message215"
+    ]
+  },
+  {
+    "id": "file-443879760bb81047",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 30671,
+    "sha256": "e1c9d1472678d3debd52619f6d5027e6cbc275f36802ae756b20489a9ee046a9",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-3a4edc244f7538d6",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 78522,
+    "sha256": "e17c10547aacd82571ea921b4b221aa14054ff1f429d93183f112e71d4709954",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message218"
+    ]
+  },
+  {
+    "id": "file-322671276b061c50",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 29022,
+    "sha256": "5061813ff3e9dd11cf0178c2c5a4af2c5f897ea4689667293b16073186ba6564",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-03edccd48b8daf6a",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 70384,
+    "sha256": "eb523bbd47d501d1c50194b814366fdc0211df4269279eaef7791076dd67dd87",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message219"
+    ]
+  },
+  {
+    "id": "file-139dea314389ae4a",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 28788,
+    "sha256": "67d6c93fcbb3b3d3eb062f2ec5254f993de15047bef16801507894ee4c528062",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-15bffe7670cc088a",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 182753,
+    "sha256": "97deab85d6165e2ffadd8ae440c23081d08989c5a1b19ef5ef245a1948af4061",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message220"
+    ]
+  },
+  {
+    "id": "file-1bdefb718b0f96a5",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 20884,
+    "sha256": "b81792308bde73ff33edcb1e9a261f11b40ae49e5cbd1b713a24c4fbc89938ae",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-37e7797c51f6bb7b",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 214642,
+    "sha256": "0db05ea9848d1534c409e5bff55de9689911c1b64d79f5bc4921a3cc4e93b2eb",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message221"
+    ]
+  },
+  {
+    "id": "file-da9de0608803d251",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 27064,
+    "sha256": "5004bdfa196f87a5284bf3e9b9c02cc09a4d6de60b376a9d4e13d40c6a4dd7f8",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-4d07329d3b9c493b",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 45455,
+    "sha256": "88d6954c78fdd574c8e834ed8b46caf3de2f84c8a2686143290d93b458f25601",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message223"
+    ]
+  },
+  {
+    "id": "file-3178ce398c43341d",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 20676,
+    "sha256": "701e04be31b81195958bbfc2e02c1f6bced4c0b3c4151d12bf05dc16fb5bf7a0",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-71414718606d6fb4",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 166467,
+    "sha256": "98db72d42e6d7f81e1d1f70bd5a2b31af51124aa83b253fb080bbe2258ae063b",
+    "status": "OCR_required",
+    "reason": "Image not exhaustively reviewed; OCR/visual review required",
+    "message_ids": [
+      "message14"
+    ]
+  },
+  {
+    "id": "file-df0ecd5979be07b8",
+    "file_path": "archive/ChatExport_2026-09-16/photos/[email removed]",
+    "size": 37838,
+    "sha256": "45c0542d4e328681faefde6f201b246d32b014f190b5b2676d71e79d54bc0081",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-fed7f22abd6f9a45",
+    "file_path": "archive/ChatExport_2026-09-16/round_video_messages/video.mp4",
+    "size": 7875650,
+    "sha256": "4e97f60aa1e5d7ceae3cfd37f2721ffb8be1b4b85188df4d5dfcec9d6acc8d4a",
+    "status": "transcription_required",
+    "reason": "Audio/video not transcribed; caption is separate evidence",
+    "message_ids": [
+      "message358"
+    ]
+  },
+  {
+    "id": "file-5d0e29775f75dd14",
+    "file_path": "archive/ChatExport_2026-09-16/round_video_messages/video.mp4_thumb.jpg",
+    "size": 21007,
+    "sha256": "8b05a6e5da41a92feeaaa6c29c4a385c6d6feceae932cbe4a8b59e4a05f36d35",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-9ac34709c046b7c2",
+    "file_path": "archive/ChatExport_2026-09-16/stickers/AnimatedSticker (1).tgs",
+    "size": 780,
+    "sha256": "b1edf16c862676cc8be081e2dc0df84f97349355f8d2188d1297bc47863080a8",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": [
+      "message141"
+    ]
+  },
+  {
+    "id": "file-41cbcc8f4bd8488a",
+    "file_path": "archive/ChatExport_2026-09-16/stickers/AnimatedSticker (2).tgs",
+    "size": 48474,
+    "sha256": "4aa11c5825f2315c03442fb045fa290689be24b31097d621cf7ab29e141c1b0c",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": [
+      "message355"
+    ]
+  },
+  {
+    "id": "file-de6956a60ce6c98f",
+    "file_path": "archive/ChatExport_2026-09-16/stickers/AnimatedSticker.tgs",
+    "size": 3715,
+    "sha256": "d387a8c228ed51a62e8ee0c22d30edea8d964332642b25cc4883b4ae27903316",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": [
+      "message141"
+    ]
+  },
+  {
+    "id": "file-9c7bdb67be449ab6",
+    "file_path": "archive/ChatExport_2026-09-16/stickers/sticker (1).webp",
+    "size": 9896,
+    "sha256": "ea60885f76df446528501622e56c4eb8f8bf9f16e843fcfb33a81e7a7559a193",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": [
+      "message323"
+    ]
+  },
+  {
+    "id": "file-b17cca9acb5d713c",
+    "file_path": "archive/ChatExport_2026-09-16/stickers/sticker (2).webp",
+    "size": 632,
+    "sha256": "1b7cbf471b6fce2c7881d08ac3db29d9d72149b5ea3ee3d487d1b934acf7e05a",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": [
+      "message355"
+    ]
+  },
+  {
+    "id": "file-7b8f055ba66b890c",
+    "file_path": "archive/ChatExport_2026-09-16/stickers/sticker.webp",
+    "size": 458,
+    "sha256": "d058f560dc1f9ff6abe5e7e6117f19f932583e5a31107773560a7a576530aef7",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": [
+      "message141"
+    ]
+  },
+  {
+    "id": "file-49f16931365aab67",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/IMG_0452.MP4",
+    "size": 1006958,
+    "sha256": "3c3f5101679e56ae2f7b97f831aaf746e74e4ccb8ad68d0c4f17763071bb6065",
+    "status": "transcription_required",
+    "reason": "Audio/video not transcribed; caption is separate evidence",
+    "message_ids": [
+      "message222"
+    ]
+  },
+  {
+    "id": "file-036eb07381396e5d",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/IMG_0452.MP4_thumb.jpg",
+    "size": 15985,
+    "sha256": "d42d2a29bd2f967176dff7a7833d54bf3e2cd2529c82c63fb174d909ff0e8e73",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-53968228546602b3",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/IMG_0528.MP4",
+    "size": 7524398,
+    "sha256": "add37ddbe40c7e06fb176929570891ddbf91a4120cd505dfeeb58301b0bc306d",
+    "status": "transcription_required",
+    "reason": "Audio/video not transcribed; caption is separate evidence",
+    "message_ids": [
+      "message224"
+    ]
+  },
+  {
+    "id": "file-2191a149f7223dc8",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/IMG_0528.MP4_thumb.jpg",
+    "size": 13329,
+    "sha256": "de9323e286237a70012a2fb44b47486a3197c63964cd9292c6468a1084d59662",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-ab9a934cad427713",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/IMG_0949.MP4",
+    "size": 5956086,
+    "sha256": "de3b38ed0fd65b349880ad35c59d6f1a5fa6ee249e876e12f7470d7bd03467dd",
+    "status": "transcription_required",
+    "reason": "Audio/video not transcribed; caption is separate evidence",
+    "message_ids": [
+      "message107"
+    ]
+  },
+  {
+    "id": "file-a22165a6cc175f79",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/IMG_0949.MP4_thumb.jpg",
+    "size": 11482,
+    "sha256": "c57a0eb1ae05987a22abf06ce86f9ac884482928385f766d9caedd97fe06e2d7",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-e9aff40e776b1236",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/IMG_1505.MOV",
+    "size": 8070508,
+    "sha256": "6a40ab2fcd4aca2337ba959a66d89d136b20a0b496fcb07effbc629060b13e03",
+    "status": "transcription_required",
+    "reason": "Audio/video not transcribed; caption is separate evidence",
+    "message_ids": [
+      "message147"
+    ]
+  },
+  {
+    "id": "file-9bfd4d1485a3332e",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/IMG_1505.MOV_thumb.jpg",
+    "size": 16446,
+    "sha256": "2a533aad3e9b75df715ab1fdfbf011b3ee52ba20664d1a451e3fd41073f043ea",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-5a9f983c0919094c",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/IMG_2158.MP4",
+    "size": 6364809,
+    "sha256": "2d801b6b400f1f183541e44bdd1a06af178d8c2e845530dfd31adc4db826d6f2",
+    "status": "transcription_required",
+    "reason": "Audio/video not transcribed; caption is separate evidence",
+    "message_ids": [
+      "message68"
+    ]
+  },
+  {
+    "id": "file-474ab3a33f398678",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/IMG_2158.MP4_thumb.jpg",
+    "size": 8814,
+    "sha256": "360c054a92bc65d5255c1e0a0a11e6dbb48bbc08d51222691138f78e95d13e30",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-3772688a7183389d",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/IMG_2759.MOV",
+    "size": 8066356,
+    "sha256": "914298d114cc5f44f751f9c8d9929d33a3aa20beb2f0ffb5b56dddf982665fbf",
+    "status": "transcription_required",
+    "reason": "Audio/video not transcribed; caption is separate evidence",
+    "message_ids": [
+      "message184"
+    ]
+  },
+  {
+    "id": "file-11c5bc8cf2a78dba",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/IMG_2759.MOV_thumb.jpg",
+    "size": 13740,
+    "sha256": "8cae84ac2018a003015ad754c1c2311936b8569781a1e174669d95b657ffa203",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-0a88999c74d02eea",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/IMG_2763.MOV",
+    "size": 7523636,
+    "sha256": "8b377d693628c37e00a40f5935e50983893e23352a3ed4247bc1e924d3c24e5f",
+    "status": "transcription_required",
+    "reason": "Audio/video not transcribed; caption is separate evidence",
+    "message_ids": [
+      "message183"
+    ]
+  },
+  {
+    "id": "file-25d4e9539f5f6cc3",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/IMG_2763.MOV_thumb.jpg",
+    "size": 12739,
+    "sha256": "d4b06c6f98b4aaf8f7d49cda9e514cd79f08e8847e45c1ddbf6a7a6fad57a649",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-df9df019c06e2809",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/IMG_2768.MOV",
+    "size": 4976988,
+    "sha256": "d1acc72f16e98507f6c4a819ae7b460260f32452ac7955636cc42161129bca27",
+    "status": "transcription_required",
+    "reason": "Audio/video not transcribed; caption is separate evidence",
+    "message_ids": [
+      "message181"
+    ]
+  },
+  {
+    "id": "file-847a704d4faaa958",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/IMG_2768.MOV_thumb.jpg",
+    "size": 12154,
+    "sha256": "72084ea5a6a9f333b95dd8b07ed37d95d568cd31033509d37622d8096e8fc781",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-3269a20eadc809fd",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/IMG_4330.MP4",
+    "size": 8196958,
+    "sha256": "70015d9b64d09c96e5ae201f08d6059f805fa323ec30c74e97801a58f672d66c",
+    "status": "transcription_required",
+    "reason": "Audio/video not transcribed; caption is separate evidence",
+    "message_ids": [
+      "message159"
+    ]
+  },
+  {
+    "id": "file-16d468904ff49931",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/IMG_4330.MP4_thumb.jpg",
+    "size": 13342,
+    "sha256": "98f89809ac42be06aada89d0244f9aa4f6ef5de6e2d5749bf6e56d37f8b9edcc",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-54393b3a697bddce",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/IMG_5871.MOV",
+    "size": 5949913,
+    "sha256": "e954ca0b11d44ff9f467c899dd3bc26f7e5759ff7c73430d1fff9ecd336f938e",
+    "status": "transcription_required",
+    "reason": "Audio/video not transcribed; caption is separate evidence",
+    "message_ids": [
+      "message288"
+    ]
+  },
+  {
+    "id": "file-58b0519a179efd7b",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/IMG_5871.MOV_thumb.jpg",
+    "size": 9624,
+    "sha256": "50bcb0c73cc1775461b653a57c4fa4c0880074340d2a3627e6d9b25e992f812c",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-4d2887eacc893dda",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/IMG_8843.MP4",
+    "size": 8282145,
+    "sha256": "3289094286660f7ea018fd2d635c15276b84609e04434010593afb9a43614232",
+    "status": "transcription_required",
+    "reason": "Audio/video not transcribed; caption is separate evidence",
+    "message_ids": [
+      "message125"
+    ]
+  },
+  {
+    "id": "file-e1acaf5303f3a6c7",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/IMG_8843.MP4_thumb.jpg",
+    "size": 14513,
+    "sha256": "9f910622ac1b4fa45bead8e5d5961db5dc175fdca00dc4eb21b6a152de51f039",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-670cb21ff6507b3d",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/IMG_9423.MP4",
+    "size": 1128951,
+    "sha256": "bbca1a1f9a7473f9a11b7a601eb25c8f3b694cebfcc6ff5e9d8748499ad14b4d",
+    "status": "transcription_required",
+    "reason": "Audio/video not transcribed; caption is separate evidence",
+    "message_ids": [
+      "message353"
+    ]
+  },
+  {
+    "id": "file-9c51f9dc25b74311",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/IMG_9423.MP4_thumb.jpg",
+    "size": 22482,
+    "sha256": "98e08261266aae19d09313026efe2c5139fe05672cf571fce5e58c1f0b1c3b14",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-8290ded541a949a5",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/sticker (1).webm",
+    "size": 50045,
+    "sha256": "f62ff0e93a5a81d889132fbffd979230464467e7b0d4443b37cebe75a3ca174b",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": [
+      "message323"
+    ]
+  },
+  {
+    "id": "file-fc9a92784bb6d218",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/sticker (2).webm",
+    "size": 41004,
+    "sha256": "0049b68af11bd44955ad3c96251f4b64cd53f9dc7de966d17ae7f674cb770c60",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": [
+      "message323"
+    ]
+  },
+  {
+    "id": "file-0039befe95cc9d15",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/sticker (3).webm",
+    "size": 57840,
+    "sha256": "666b617a96181909c5fd12f860f0e9cdf334e4ce565cf7387563371b44dbca0f",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": [
+      "message323"
+    ]
+  },
+  {
+    "id": "file-c7380bd4d3f75b0c",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/sticker (4).webm",
+    "size": 51295,
+    "sha256": "3f7562c1382a14fcf44a09aa1840cc8bbadb9705ab7e192e23f46c93c2e95e37",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": [
+      "message323"
+    ]
+  },
+  {
+    "id": "file-9fceb9220c7d3a11",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/sticker (5).webm",
+    "size": 55110,
+    "sha256": "6ef034f13063f7e5fa255d29abe27c8de16f16e181f073e653f0e5ee9392ada0",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": [
+      "message323"
+    ]
+  },
+  {
+    "id": "file-65bea67d0a3fb0a0",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/sticker (6).webm",
+    "size": 63336,
+    "sha256": "e1a976703f3d944a7b8698e84fcb4eb1978d414bd7366ef700197d10fb23c104",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": [
+      "message323"
+    ]
+  },
+  {
+    "id": "file-9828d3c2ed655f2e",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/sticker.webm",
+    "size": 46700,
+    "sha256": "c2190bf522c7e05c7828b5a0fe8665ad6f67dbddca986900892360829a551b33",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": [
+      "message323"
+    ]
+  },
+  {
+    "id": "file-bc7398298c4fd009",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/[email removed]4",
+    "size": 8281232,
+    "sha256": "1320d0edf96d3127485b3a41a757ed52ea143a92c96e221dab62cd0411d00b54",
+    "status": "transcription_required",
+    "reason": "Audio/video not transcribed; caption is separate evidence",
+    "message_ids": [
+      "message130"
+    ]
+  },
+  {
+    "id": "file-ca16c3f848810d34",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/[email removed]",
+    "size": 12897,
+    "sha256": "4de0300430326c6b1ef43d996720538e7f3a355484bc96b2d88fefedb4fd4305",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-4fb474638f54e741",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/[email removed]4",
+    "size": 4316564,
+    "sha256": "653f735afe6e3e5c78cf25db53b56529b9e9d8b5fb75335a41353811e0874b0e",
+    "status": "transcription_required",
+    "reason": "Audio/video not transcribed; caption is separate evidence",
+    "message_ids": [
+      "message289"
+    ]
+  },
+  {
+    "id": "file-803d6718faf120d6",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/[email removed]",
+    "size": 14951,
+    "sha256": "2d940ec12ca05a48e4ff6fb3cd7dcedcc9657d7d4dd61793f5f4069db1bb4e42",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-53a5caab83ea0b24",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/[email removed]4",
+    "size": 3707863,
+    "sha256": "3a5afb06e584e95868891deab156c635f057a9590a960f78ed7e188bd22eb5aa",
+    "status": "transcription_required",
+    "reason": "Audio/video not transcribed; caption is separate evidence",
+    "message_ids": [
+      "message306"
+    ]
+  },
+  {
+    "id": "file-1f8724c3e25bedcd",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/[email removed]",
+    "size": 12344,
+    "sha256": "2eca4b4e23f35d986a3d313c1cc08bf62d72f36bd56290d5127ab41df3b66c41",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-6376969f23b3ca37",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/[email removed]4",
+    "size": 4125389,
+    "sha256": "fec687b7cbc749aceb8e644e22bcffb2cdfeb47633e4095600b0850aff6f764a",
+    "status": "transcription_required",
+    "reason": "Audio/video not transcribed; caption is separate evidence",
+    "message_ids": [
+      "message307"
+    ]
+  },
+  {
+    "id": "file-c0d9176c8cb9b9b4",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/[email removed]",
+    "size": 13900,
+    "sha256": "b0ecfe2f78ecdd6b85dbea9f658b4621e8c82d47a8de14743fa476bb14e9b235",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-29896d0b815ab0b5",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/[email removed]4",
+    "size": 7841396,
+    "sha256": "b1529bd1e44bc3a518fe6838006485f1921f568fca760044e742e93c72ef3ce1",
+    "status": "transcription_required",
+    "reason": "Audio/video not transcribed; caption is separate evidence",
+    "message_ids": [
+      "message333"
+    ]
+  },
+  {
+    "id": "file-5e49b57b4bbefd53",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/[email removed]",
+    "size": 16557,
+    "sha256": "f0691556d8497ceabe9827d83b315ee1a43315fdafb830666a38fff51ea3c970",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  },
+  {
+    "id": "file-b945bafff004f49b",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/нигер муслим logo.mp4",
+    "size": 4988915,
+    "sha256": "6d40b611a769ab1a97950a31a4fb7a1c5cad7bc4dc2dfe0738aaed53e7f5fd81",
+    "status": "transcription_required",
+    "reason": "Audio/video not transcribed; caption is separate evidence",
+    "message_ids": [
+      "message139"
+    ]
+  },
+  {
+    "id": "file-179636c9f5238fac",
+    "file_path": "archive/ChatExport_2026-09-16/video_files/нигер муслим logo.mp4_thumb.jpg",
+    "size": 21904,
+    "sha256": "af2a3f33b347d80f4cef36c3fddfa8a552128bbe3a11c5b59038ce855b473949",
+    "status": "non_business",
+    "reason": "Export asset, sticker or derivative thumbnail; not used as business evidence",
+    "message_ids": []
+  }
+]

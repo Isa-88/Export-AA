@@ -1,0 +1,10 @@
+{
+  "telegram": {
+    "update_id": 90001,
+    "message": {"chat": {"id": 1001, "type": "private"}, "text": "Хочу экспортировать мёд в ОАЭ"}
+  },
+  "instagram": {
+    "object": "instagram",
+    "entry": [{"id": "demo-account", "messaging": [{"sender": {"id": "demo-client"}, "recipient": {"id": "demo-account"}, "message": {"mid": "demo-message-1", "text": "Хочу записаться на консультацию"}}]}]
+  }
+}
